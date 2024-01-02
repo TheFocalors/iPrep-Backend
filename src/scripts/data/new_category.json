@@ -1,0 +1,118 @@
+[
+  {
+    "name": "Business Development",
+    "id": 0
+  },
+  {
+    "name": "Marketing",
+    "id": 1
+  },
+  {
+    "name": "Others",
+    "id": 2
+  },
+  {
+    "name": "Human Resource",
+    "id": 3
+  },
+  {
+    "name": "Finance",
+    "id": 4
+  },
+  {
+    "name": "Education",
+    "id": 5
+  },
+  {
+    "name": "Supply Chain",
+    "id": 6
+  },
+  {
+    "name": "Safety & Security",
+    "id": 7
+  },
+  {
+    "name": "Hotel & Travel",
+    "id": 8
+  },
+  {
+    "name": "Software Engineer",
+    "id": 9
+  },
+  {
+    "name": "Fashion",
+    "id": 10
+  },
+  {
+    "name": "Operations",
+    "id": 11
+  },
+  {
+    "name": "Management",
+    "id": 12
+  },
+  {
+    "name": "Media",
+    "id": 13
+  },
+  {
+    "name": "Entertainment",
+    "id": 14
+  },
+  {
+    "name": "Healthcare",
+    "id": 15
+  },
+  {
+    "name": "Design",
+    "id": 16
+  },
+  {
+    "name": "Administrative",
+    "id": 17
+  },
+  {
+    "name": "Consulting",
+    "id": 18
+  },
+  {
+    "name": "Product Management",
+    "id": 19
+  },
+  {
+    "name": "Restaurant",
+    "id": 20
+  },
+  {
+    "name": "Technician",
+    "id": 21
+  },
+  {
+    "name": "Services Industry",
+    "id": 22
+  },
+  {
+    "name": "Legal",
+    "id": 23
+  },
+  {
+    "name": "Language & Translation",
+    "id": 24
+  },
+  {
+    "name": "Engineering",
+    "id": 25
+  },
+  {
+    "name": "Data Science",
+    "id": 26
+  },
+  {
+    "name": "General Worker",
+    "id": 27
+  },
+  {
+    "name": "Aviation",
+    "id": 28
+  }
+]

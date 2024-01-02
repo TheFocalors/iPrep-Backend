@@ -1,0 +1,7226 @@
+[
+  {
+    "id": 0,
+    "name": "Kabupaten Aceh Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.1527, 4.4543]
+      }
+    }
+  },
+  {
+    "id": 1,
+    "name": "Kabupaten Aceh Barat Daya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Barat Daya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.0068, 3.7963]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Kabupaten Aceh Besar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Besar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.4778, 5.4529]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Kabupaten Aceh Jaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.6458, 4.7874]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Kabupaten Aceh Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.3517, 3.3115]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kabupaten Aceh Singkil",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Singkil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.8722, 2.3589]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "Kabupaten Aceh Tamiang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Tamiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.0029, 4.2329]
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "Kabupaten Aceh Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.8351, 4.4483]
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "Kabupaten Aceh Tenggara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Tenggara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.6982, 3.3089]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "Kabupaten Aceh Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.6114, 4.5224]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "Kabupaten Aceh Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Aceh Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.2221, 4.9786]
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "Kabupaten Bener Meriah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bener Meriah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.9525, 4.7514]
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "Kabupaten Bireuen",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bireuen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.6638, 5.1086]
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "Kabupaten Gayo Lues",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gayo Lues"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.3517, 3.9552]
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "Kabupaten Nagan Raya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nagan Raya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.493, 4.1248]
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "Kabupaten Pidie",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pidie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.941, 5.0743]
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "Kabupaten Pidie Jaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pidie Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.1951, 5.1548]
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "Kabupaten Simeulue",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Simeulue"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.0256, 2.644]
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "Kota Banda Aceh",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Banda Aceh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.3238, 5.5483]
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "Kota Langsa",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Langsa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.9756, 4.4725]
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "Kota Lhokseumawe",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Lhokseumawe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.1413, 5.1812]
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "Kota Sabang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Sabang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [95.3238, 5.8926]
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "Kota Subulussalam",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Subulussalam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.9157, 2.7121]
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "Kabupaten Asahan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Asahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.6341, 2.8175]
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "Kabupaten Batubara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Batubara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.5006, 3.1741]
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "Kabupaten Dairi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Dairi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.2651, 2.8676]
+      }
+    }
+  },
+  {
+    "id": 26,
+    "name": "Kabupaten Deli Serdang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Deli Serdang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.7041, 3.4202]
+      }
+    }
+  },
+  {
+    "id": 27,
+    "name": "Kabupaten Humbang Hasundutan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Humbang Hasundutan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.5721, 2.1989]
+      }
+    }
+  },
+  {
+    "id": 28,
+    "name": "Kabupaten Karo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Karo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.2651, 3.1053]
+      }
+    }
+  },
+  {
+    "id": 29,
+    "name": "Kabupaten Labuhanbatu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Labuhanbatu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.1703, 2.344]
+      }
+    }
+  },
+  {
+    "id": 30,
+    "name": "Kabupaten Labuhanbatu Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Labuhanbatu Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.1703, 1.8799]
+      }
+    }
+  },
+  {
+    "id": 31,
+    "name": "Kabupaten Labuhanbatu Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Labuhanbatu Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.8125, 2.3466]
+      }
+    }
+  },
+  {
+    "id": 32,
+    "name": "Kabupaten Langkat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Langkat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.3088, 3.8654]
+      }
+    }
+  },
+  {
+    "id": 33,
+    "name": "Kabupaten Mandailing Natal",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mandailing Natal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.3673, 0.7432]
+      }
+    }
+  },
+  {
+    "id": 34,
+    "name": "Kabupaten Nias",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nias"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.7417, 1.0869]
+      }
+    }
+  },
+  {
+    "id": 35,
+    "name": "Kabupaten Nias Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nias Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.4814, 1.0116]
+      }
+    }
+  },
+  {
+    "id": 36,
+    "name": "Kabupaten Nias Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nias Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.8286, 0.7086]
+      }
+    }
+  },
+  {
+    "id": 37,
+    "name": "Kabupaten Nias Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nias Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.3949, 1.3166]
+      }
+    }
+  },
+  {
+    "id": 38,
+    "name": "Kabupaten Padang Lawas",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Padang Lawas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.8125, 1.1187]
+      }
+    }
+  },
+  {
+    "id": 39,
+    "name": "Kabupaten Padang Lawas Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Padang Lawas Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.6341, 1.5759]
+      }
+    }
+  },
+  {
+    "id": 40,
+    "name": "Kabupaten Pakpak Bharat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pakpak Bharat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.2213, 2.5135]
+      }
+    }
+  },
+  {
+    "id": 41,
+    "name": "Kabupaten Samosir",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Samosir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.7922, 2.6274]
+      }
+    }
+  },
+  {
+    "id": 42,
+    "name": "Kabupaten Serdang Bedagai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Serdang Bedagai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.0571, 3.3372]
+      }
+    }
+  },
+  {
+    "id": 43,
+    "name": "Kabupaten Simalungun",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Simalungun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.2786, 2.9782]
+      }
+    }
+  },
+  {
+    "id": 44,
+    "name": "Kabupaten Tapanuli Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tapanuli Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.2786, 1.5775]
+      }
+    }
+  },
+  {
+    "id": 45,
+    "name": "Kabupaten Tapanuli Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tapanuli Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.7041, 1.8493]
+      }
+    }
+  },
+  {
+    "id": 46,
+    "name": "Kabupaten Tapanuli Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tapanuli Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.1013, 2.0405]
+      }
+    }
+  },
+  {
+    "id": 47,
+    "name": "Kabupaten Toba Samosir",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Toba Samosir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.2786, 2.3502]
+      }
+    }
+  },
+  {
+    "id": 48,
+    "name": "Kota Binjai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Binjai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.5025, 3.6135]
+      }
+    }
+  },
+  {
+    "id": 49,
+    "name": "Kota Gunungsitoli",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Gunungsitoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [97.6147, 1.2805]
+      }
+    }
+  },
+  {
+    "id": 50,
+    "name": "Kota Medan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Medan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.6722, 3.5952]
+      }
+    }
+  },
+  {
+    "id": 51,
+    "name": "Kota Padangsidempuan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Padangsidempuan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.273, 1.3722]
+      }
+    }
+  },
+  {
+    "id": 52,
+    "name": "Kota Pematangsiantar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pematangsiantar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.0682, 2.97]
+      }
+    }
+  },
+  {
+    "id": 53,
+    "name": "Kota Sibolga",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Sibolga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.7851, 1.7368]
+      }
+    }
+  },
+  {
+    "id": 54,
+    "name": "Kota Tanjungbalai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tanjungbalai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.7985, 2.9662]
+      }
+    }
+  },
+  {
+    "id": 55,
+    "name": "Kota Tebing Tinggi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tebing Tinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.1567, 3.3263]
+      }
+    }
+  },
+  {
+    "id": 56,
+    "name": "Kabupaten Agam",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Agam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.1703, -0.2209]
+      }
+    }
+  },
+  {
+    "id": 57,
+    "name": "Kabupaten Dharmasraya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Dharmasraya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.6158, -1.1121]
+      }
+    }
+  },
+  {
+    "id": 58,
+    "name": "Kabupaten Kepulauan Mentawai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Mentawai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [98.9245, -1.426]
+      }
+    }
+  },
+  {
+    "id": 59,
+    "name": "Kabupaten Lima Puluh Kota",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lima Puluh Kota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5296, 0.0734]
+      }
+    }
+  },
+  {
+    "id": 60,
+    "name": "Kabupaten Padang Pariaman",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Padang Pariaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.2152, -0.5547]
+      }
+    }
+  },
+  {
+    "id": 61,
+    "name": "Kabupaten Pasaman",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pasaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.1703, 0.2209]
+      }
+    }
+  },
+  {
+    "id": 62,
+    "name": "Kabupaten Pasaman Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pasaman Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.6341, 0.2213]
+      }
+    }
+  },
+  {
+    "id": 63,
+    "name": "Kabupaten Pesisir Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pesisir Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.8903, -1.7223]
+      }
+    }
+  },
+  {
+    "id": 64,
+    "name": "Kabupaten Sijunjung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sijunjung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.0712, -0.6647]
+      }
+    }
+  },
+  {
+    "id": 65,
+    "name": "Kabupaten Solok",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Solok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.8903, -0.9644]
+      }
+    }
+  },
+  {
+    "id": 66,
+    "name": "Kabupaten Solok Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Solok Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.2524, -1.4157]
+      }
+    }
+  },
+  {
+    "id": 67,
+    "name": "Kabupaten Tanah Datar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tanah Datar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.5746, -0.4797]
+      }
+    }
+  },
+  {
+    "id": 68,
+    "name": "Kota Bukittinggi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bukittinggi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.3835, -0.3039]
+      }
+    }
+  },
+  {
+    "id": 69,
+    "name": "Kota Padang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Padang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.4172, -0.9471]
+      }
+    }
+  },
+  {
+    "id": 70,
+    "name": "Kota Padangpanjang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Padangpanjang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.3984, -0.4661]
+      }
+    }
+  },
+  {
+    "id": 71,
+    "name": "Kota Pariaman",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pariaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.1233, -0.6257]
+      }
+    }
+  },
+  {
+    "id": 72,
+    "name": "Kota Payakumbuh",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Payakumbuh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.6309, -0.2298]
+      }
+    }
+  },
+  {
+    "id": 73,
+    "name": "Kota Sawahlunto",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Sawahlunto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.7323, -0.6841]
+      }
+    }
+  },
+  {
+    "id": 74,
+    "name": "Kota Solok",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Solok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.655, -0.7885]
+      }
+    }
+  },
+  {
+    "id": 75,
+    "name": "Kabupaten Bengkalis",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bengkalis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.6158, 1.4139]
+      }
+    }
+  },
+  {
+    "id": 76,
+    "name": "Kabupaten Indragiri Hilir",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Indragiri Hilir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.9896, -0.1457]
+      }
+    }
+  },
+  {
+    "id": 77,
+    "name": "Kabupaten Indragiri Hulu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Indragiri Hulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.2548, -0.7361]
+      }
+    }
+  },
+  {
+    "id": 78,
+    "name": "Kabupaten Kampar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kampar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.1617, 0.1467]
+      }
+    }
+  },
+  {
+    "id": 79,
+    "name": "Kabupaten Kepulauan Meranti",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Meranti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.6676, 0.9209]
+      }
+    }
+  },
+  {
+    "id": 80,
+    "name": "Kabupaten Kuantan Singingi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kuantan Singingi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.5248, -0.4412]
+      }
+    }
+  },
+  {
+    "id": 81,
+    "name": "Kabupaten Pelalawan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pelalawan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.2548, 0.1461]
+      }
+    }
+  },
+  {
+    "id": 82,
+    "name": "Kabupaten Rokan Hilir",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Rokan Hilir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.8, 1.6464]
+      }
+    }
+  },
+  {
+    "id": 83,
+    "name": "Kabupaten Rokan Hulu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Rokan Hulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.4397, 1.0411]
+      }
+    }
+  },
+  {
+    "id": 84,
+    "name": "Kabupaten Siak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Siak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.798, 0.8119]
+      }
+    }
+  },
+  {
+    "id": 85,
+    "name": "Kota Dumai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Dumai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4002, 1.6666]
+      }
+    }
+  },
+  {
+    "id": 86,
+    "name": "Kota Pekanbaru",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pekanbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4478, 0.5071]
+      }
+    }
+  },
+  {
+    "id": 87,
+    "name": "Kabupaten Bintan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bintan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.5189, 1.0619]
+      }
+    }
+  },
+  {
+    "id": 88,
+    "name": "Kabupaten Karimun",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Karimun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.4049, 0.7698]
+      }
+    }
+  },
+  {
+    "id": 89,
+    "name": "Kabupaten Kepulauan Anambas",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Anambas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.6537, 3.1055]
+      }
+    }
+  },
+  {
+    "id": 90,
+    "name": "Kabupaten Lingga",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lingga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.4258, -0.4726]
+      }
+    }
+  },
+  {
+    "id": 91,
+    "name": "Kabupaten Natuna",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Natuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.25, 4.0]
+      }
+    }
+  },
+  {
+    "id": 92,
+    "name": "Kota Batam",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Batam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.0529, 1.1301]
+      }
+    }
+  },
+  {
+    "id": 93,
+    "name": "Kota Tanjung Pinang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tanjung Pinang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.4665, 0.9186]
+      }
+    }
+  },
+  {
+    "id": 94,
+    "name": "Pulau Tambelan Kabupaten Bintan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Tambelan Kabupaten Bintan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.3259, 1.1216]
+      }
+    }
+  },
+  {
+    "id": 95,
+    "name": "Pekajang Kabupaten Lingga",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Pekajang Kabupaten Lingga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.6305, -0.0752]
+      }
+    }
+  },
+  {
+    "id": 96,
+    "name": "Pulau Serasan Kabupaten Natuna",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Serasan Kabupaten Natuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.0513, 2.5179]
+      }
+    }
+  },
+  {
+    "id": 97,
+    "name": "Pulau Midai Kabupaten Natuna",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Midai Kabupaten Natuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.7755, 2.9979]
+      }
+    }
+  },
+  {
+    "id": 98,
+    "name": "Pulau Laut Kabupaten Natuna",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulau Laut Kabupaten Natuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.971, 4.7103]
+      }
+    }
+  },
+  {
+    "id": 99,
+    "name": "Kabupaten Batanghari",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Batanghari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.0818, -1.7084]
+      }
+    }
+  },
+  {
+    "id": 100,
+    "name": "Kabupaten Bungo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bungo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.8892, -1.6401]
+      }
+    }
+  },
+  {
+    "id": 101,
+    "name": "Kabupaten Kerinci",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kerinci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4339, -1.872]
+      }
+    }
+  },
+  {
+    "id": 102,
+    "name": "Kabupaten Merangin",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Merangin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.9805, -2.1753]
+      }
+    }
+  },
+  {
+    "id": 103,
+    "name": "Kabupaten Muaro Jambi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Muaro Jambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8216, -1.5521]
+      }
+    }
+  },
+  {
+    "id": 104,
+    "name": "Kabupaten Sarolangun",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sarolangun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.7135, -2.323]
+      }
+    }
+  },
+  {
+    "id": 105,
+    "name": "Kabupaten Tanjung Jabung Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tanjung Jabung Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.0818, -1.1058]
+      }
+    }
+  },
+  {
+    "id": 106,
+    "name": "Kabupaten Tanjung Jabung Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tanjung Jabung Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8216, -1.1024]
+      }
+    }
+  },
+  {
+    "id": 107,
+    "name": "Kabupaten Tebo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tebo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.3464, -1.2593]
+      }
+    }
+  },
+  {
+    "id": 108,
+    "name": "Kota Jambi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Jambi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.6131, -1.6101]
+      }
+    }
+  },
+  {
+    "id": 109,
+    "name": "Kota Sungai Penuh",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Sungai Penuh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.3947, -2.0634]
+      }
+    }
+  },
+  {
+    "id": 110,
+    "name": "Kabupaten Bengkulu Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bengkulu Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.0357, -4.3248]
+      }
+    }
+  },
+  {
+    "id": 111,
+    "name": "Kabupaten Bengkulu Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bengkulu Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.3922, -3.6962]
+      }
+    }
+  },
+  {
+    "id": 112,
+    "name": "Kabupaten Bengkulu Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bengkulu Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.9805, -3.2663]
+      }
+    }
+  },
+  {
+    "id": 113,
+    "name": "Kabupaten Kaur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kaur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.2663, -4.5216]
+      }
+    }
+  },
+  {
+    "id": 114,
+    "name": "Kabupaten Kepahiang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepahiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.6676, -3.613]
+      }
+    }
+  },
+  {
+    "id": 115,
+    "name": "Kabupaten Lebong",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lebong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.209, -3.1455]
+      }
+    }
+  },
+  {
+    "id": 116,
+    "name": "Kabupaten Mukomuko",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mukomuko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.4339, -2.6449]
+      }
+    }
+  },
+  {
+    "id": 117,
+    "name": "Kabupaten Rejang Lebong",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Rejang Lebong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.6676, -3.4548]
+      }
+    }
+  },
+  {
+    "id": 118,
+    "name": "Kabupaten Seluma",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Seluma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.7135, -4.0499]
+      }
+    }
+  },
+  {
+    "id": 119,
+    "name": "Kota Bengkulu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bengkulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.2608, -3.7928]
+      }
+    }
+  },
+  {
+    "id": 120,
+    "name": "Kabupaten Banyuasin",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banyuasin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.7521, -2.6096]
+      }
+    }
+  },
+  {
+    "id": 121,
+    "name": "Kabupaten Empat Lawang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Empat Lawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.8975, -3.7286]
+      }
+    }
+  },
+  {
+    "id": 122,
+    "name": "Kabupaten Lahat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.3587, -3.8009]
+      }
+    }
+  },
+  {
+    "id": 123,
+    "name": "Kabupaten Muara Enim",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Muara Enim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.0072, -3.7114]
+      }
+    }
+  },
+  {
+    "id": 124,
+    "name": "Kabupaten Musi Banyuasin",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Musi Banyuasin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7289, -2.5442]
+      }
+    }
+  },
+  {
+    "id": 125,
+    "name": "Kabupaten Musi Rawas",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Musi Rawas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.0818, -3.0957]
+      }
+    }
+  },
+  {
+    "id": 126,
+    "name": "Kabupaten Musi Rawas Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Musi Rawas Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.7135, -2.7878]
+      }
+    }
+  },
+  {
+    "id": 127,
+    "name": "Kabupaten Ogan Ilir",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ogan Ilir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.6121, -3.4265]
+      }
+    }
+  },
+  {
+    "id": 128,
+    "name": "Kabupaten Ogan Komering Ilir",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ogan Komering Ilir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.2195, -3.456]
+      }
+    }
+  },
+  {
+    "id": 129,
+    "name": "Kabupaten Ogan Komering Ulu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ogan Komering Ulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.0072, -4.0283]
+      }
+    }
+  },
+  {
+    "id": 130,
+    "name": "Kabupaten Ogan Komering Ulu Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ogan Komering Ulu Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.0072, -4.6682]
+      }
+    }
+  },
+  {
+    "id": 131,
+    "name": "Kabupaten Ogan Komering Ulu Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ogan Komering Ulu Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.7521, -3.8568]
+      }
+    }
+  },
+  {
+    "id": 132,
+    "name": "Kabupaten Penukal Abab Lematang Ilir",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Penukal Abab Lematang Ilir"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.0072, -3.2398]
+      }
+    }
+  },
+  {
+    "id": 133,
+    "name": "Kota Lubuklinggau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Lubuklinggau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.8572, -3.2996]
+      }
+    }
+  },
+  {
+    "id": 134,
+    "name": "Kota Pagar Alam",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pagar Alam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.2279, -4.042]
+      }
+    }
+  },
+  {
+    "id": 135,
+    "name": "Kota Palembang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Palembang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.7754, -2.9761]
+      }
+    }
+  },
+  {
+    "id": 136,
+    "name": "Kota Prabumulih",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Prabumulih"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.2437, -3.4214]
+      }
+    }
+  },
+  {
+    "id": 137,
+    "name": "Kabupaten Bangka",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bangka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.923, -1.8743]
+      }
+    }
+  },
+  {
+    "id": 138,
+    "name": "Kabupaten Bangka Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bangka Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.5005, -1.8405]
+      }
+    }
+  },
+  {
+    "id": 139,
+    "name": "Kabupaten Bangka Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bangka Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.4406, -2.7411]
+      }
+    }
+  },
+  {
+    "id": 140,
+    "name": "Kabupaten Bangka Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bangka Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.2051, -2.4008]
+      }
+    }
+  },
+  {
+    "id": 141,
+    "name": "Kabupaten Belitung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Belitung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.7636, -2.7217]
+      }
+    }
+  },
+  {
+    "id": 142,
+    "name": "Kabupaten Belitung Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Belitung Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.1429, -2.8678]
+      }
+    }
+  },
+  {
+    "id": 143,
+    "name": "Kota Pangkal Pinang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pangkal Pinang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.1169, -2.1316]
+      }
+    }
+  },
+  {
+    "id": 144,
+    "name": "Kabupaten Lampung Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lampung Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.3131, -4.8008]
+      }
+    }
+  },
+  {
+    "id": 145,
+    "name": "Kabupaten Lampung Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lampung Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.7521, -4.8134]
+      }
+    }
+  },
+  {
+    "id": 146,
+    "name": "Kabupaten Lampung Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lampung Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.5474, -5.5623]
+      }
+    }
+  },
+  {
+    "id": 147,
+    "name": "Kabupaten Lampung Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lampung Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.1466, -5.1095]
+      }
+    }
+  },
+  {
+    "id": 148,
+    "name": "Kabupaten Lampung Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lampung Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.6882, -5.1135]
+      }
+    }
+  },
+  {
+    "id": 149,
+    "name": "Kabupaten Mesuji",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mesuji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.3131, -4.0045]
+      }
+    }
+  },
+  {
+    "id": 150,
+    "name": "Kabupaten Pesawaran",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pesawaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.0791, -5.4932]
+      }
+    }
+  },
+  {
+    "id": 151,
+    "name": "Kabupaten Pesisir Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pesisir Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.1234, -5.2928]
+      }
+    }
+  },
+  {
+    "id": 152,
+    "name": "Kabupaten Pringsewu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pringsewu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.9856, -5.3331]
+      }
+    }
+  },
+  {
+    "id": 153,
+    "name": "Kabupaten Tulang Bawang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tulang Bawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.5005, -4.3177]
+      }
+    }
+  },
+  {
+    "id": 154,
+    "name": "Kabupaten Tulang Bawang Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tulang Bawang Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.0791, -4.5257]
+      }
+    }
+  },
+  {
+    "id": 155,
+    "name": "Kabupaten Tanggamus",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tanggamus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.5655, -5.3027]
+      }
+    }
+  },
+  {
+    "id": 156,
+    "name": "Kabupaten Way Kanan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Way Kanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.5655, -4.4964]
+      }
+    }
+  },
+  {
+    "id": 157,
+    "name": "Kota Bandar Lampung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bandar Lampung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.2668, -5.3971]
+      }
+    }
+  },
+  {
+    "id": 158,
+    "name": "Kota Metro",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.3073, -5.1178]
+      }
+    }
+  },
+  {
+    "id": 159,
+    "name": "Kabupaten Lebak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lebak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.2522, -6.5644]
+      }
+    }
+  },
+  {
+    "id": 160,
+    "name": "Kabupaten Pandeglang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pandeglang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [105.6882, -6.7483]
+      }
+    }
+  },
+  {
+    "id": 161,
+    "name": "Kabupaten Serang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Serang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.0405, -6.1397]
+      }
+    }
+  },
+  {
+    "id": 162,
+    "name": "Kabupaten Tangerang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tangerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.4877, -6.1872]
+      }
+    }
+  },
+  {
+    "id": 163,
+    "name": "Kota Cilegon",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Cilegon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.0111, -6.0025]
+      }
+    }
+  },
+  {
+    "id": 164,
+    "name": "Kota Serang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Serang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.164, -6.1104]
+      }
+    }
+  },
+  {
+    "id": 165,
+    "name": "Kota Tangerang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tangerang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6527, -6.2024]
+      }
+    }
+  },
+  {
+    "id": 166,
+    "name": "Kota Tangerang Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tangerang Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7113, -6.2835]
+      }
+    }
+  },
+  {
+    "id": 167,
+    "name": "Kabupaten Bandung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.6215, -7.1341]
+      }
+    }
+  },
+  {
+    "id": 168,
+    "name": "Kabupaten Bandung Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bandung Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.492, -6.8652]
+      }
+    }
+  },
+  {
+    "id": 169,
+    "name": "Kabupaten Bekasi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bekasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.1485, -6.2474]
+      }
+    }
+  },
+  {
+    "id": 170,
+    "name": "Kabupaten Bogor",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.6291, -6.5518]
+      }
+    }
+  },
+  {
+    "id": 171,
+    "name": "Kabupaten Ciamis",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ciamis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.3493, -7.3321]
+      }
+    }
+  },
+  {
+    "id": 172,
+    "name": "Kabupaten Cianjur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Cianjur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.1957, -7.358]
+      }
+    }
+  },
+  {
+    "id": 173,
+    "name": "Kabupaten Cirebon",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Cirebon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.4751, -6.6899]
+      }
+    }
+  },
+  {
+    "id": 174,
+    "name": "Kabupaten Garut",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Garut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.7636, -7.5012]
+      }
+    }
+  },
+  {
+    "id": 175,
+    "name": "Kabupaten Indramayu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Indramayu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.3258, -6.3373]
+      }
+    }
+  },
+  {
+    "id": 176,
+    "name": "Kabupaten Karawang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Karawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.3376, -6.3227]
+      }
+    }
+  },
+  {
+    "id": 177,
+    "name": "Kabupaten Kuningan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kuningan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.5701, -7.0138]
+      }
+    }
+  },
+  {
+    "id": 178,
+    "name": "Kabupaten Majalengka",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Majalengka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.2852, -6.7791]
+      }
+    }
+  },
+  {
+    "id": 179,
+    "name": "Kabupaten Pangandaran",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pangandaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.4988, -7.6151]
+      }
+    }
+  },
+  {
+    "id": 180,
+    "name": "Kabupaten Purwakarta",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Purwakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.4322, -6.5649]
+      }
+    }
+  },
+  {
+    "id": 181,
+    "name": "Kabupaten Subang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Subang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.7636, -6.3488]
+      }
+    }
+  },
+  {
+    "id": 182,
+    "name": "Kabupaten Sukabumi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sukabumi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.9536, -6.8649]
+      }
+    }
+  },
+  {
+    "id": 183,
+    "name": "Kabupaten Sumedang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumedang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.9532, -6.8329]
+      }
+    }
+  },
+  {
+    "id": 184,
+    "name": "Kabupaten Tasikmalaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tasikmalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.1429, -7.6513]
+      }
+    }
+  },
+  {
+    "id": 185,
+    "name": "Kota Bandung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bandung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.6191, -6.9175]
+      }
+    }
+  },
+  {
+    "id": 186,
+    "name": "Kota Banjar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Banjar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.5342, -7.3707]
+      }
+    }
+  },
+  {
+    "id": 187,
+    "name": "Kota Bekasi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bekasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.9756, -6.2383]
+      }
+    }
+  },
+  {
+    "id": 188,
+    "name": "Kota Bogor",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.806, -6.5971]
+      }
+    }
+  },
+  {
+    "id": 189,
+    "name": "Kota Cimahi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Cimahi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [107.5413, -6.8841]
+      }
+    }
+  },
+  {
+    "id": 190,
+    "name": "Kota Cirebon",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Cirebon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.5523, -6.732]
+      }
+    }
+  },
+  {
+    "id": 191,
+    "name": "Kota Depok",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Depok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.7942, -6.4025]
+      }
+    }
+  },
+  {
+    "id": 192,
+    "name": "Kota Sukabumi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Sukabumi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.93, -6.9277]
+      }
+    }
+  },
+  {
+    "id": 193,
+    "name": "Kota Tasikmalaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tasikmalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.2172, -7.3506]
+      }
+    }
+  },
+  {
+    "id": 194,
+    "name": "Kota Jakarta",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Jakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.865, -6.1751]
+      }
+    }
+  },
+  {
+    "id": 195,
+    "name": "Kabupaten Administrasi Kepulauan Seribu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Administrasi Kepulauan Seribu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.617, -5.6122]
+      }
+    }
+  },
+  {
+    "id": 196,
+    "name": "Kabupaten Banjarnegara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banjarnegara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6163, -7.3794]
+      }
+    }
+  },
+  {
+    "id": 197,
+    "name": "Kabupaten Banyumas",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banyumas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.1404, -7.4832]
+      }
+    }
+  },
+  {
+    "id": 198,
+    "name": "Kabupaten Batang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Batang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.9021, -7.0392]
+      }
+    }
+  },
+  {
+    "id": 199,
+    "name": "Kabupaten Blora",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Blora"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3799, -7.0122]
+      }
+    }
+  },
+  {
+    "id": 200,
+    "name": "Kabupaten Boyolali",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Boyolali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.6884, -7.4318]
+      }
+    }
+  },
+  {
+    "id": 201,
+    "name": "Kabupaten Brebes",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Brebes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.9027, -6.9592]
+      }
+    }
+  },
+  {
+    "id": 202,
+    "name": "Kabupaten Cilacap",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Cilacap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.9027, -7.6178]
+      }
+    }
+  },
+  {
+    "id": 203,
+    "name": "Kabupaten Demak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Demak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.6646, -6.9239]
+      }
+    }
+  },
+  {
+    "id": 204,
+    "name": "Kabupaten Grobogan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Grobogan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.9507, -7.1542]
+      }
+    }
+  },
+  {
+    "id": 205,
+    "name": "Kabupaten Jepara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Jepara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.6787, -6.5827]
+      }
+    }
+  },
+  {
+    "id": 206,
+    "name": "Kabupaten Karanganyar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Karanganyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.046, -7.6387]
+      }
+    }
+  },
+  {
+    "id": 207,
+    "name": "Kabupaten Kebumen",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kebumen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6525, -7.6681]
+      }
+    }
+  },
+  {
+    "id": 208,
+    "name": "Kabupaten Kendal",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kendal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.1879, -7.0265]
+      }
+    }
+  },
+  {
+    "id": 209,
+    "name": "Kabupaten Klaten",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Klaten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.6646, -7.6579]
+      }
+    }
+  },
+  {
+    "id": 210,
+    "name": "Kabupaten Kudus",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kudus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.8791, -6.7726]
+      }
+    }
+  },
+  {
+    "id": 211,
+    "name": "Kabupaten Magelang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Magelang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2832, -7.4305]
+      }
+    }
+  },
+  {
+    "id": 212,
+    "name": "Kabupaten Pati",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.046, -6.745]
+      }
+    }
+  },
+  {
+    "id": 213,
+    "name": "Kabupaten Pekalongan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pekalongan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6163, -7.0517]
+      }
+    }
+  },
+  {
+    "id": 214,
+    "name": "Kabupaten Pemalang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pemalang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.4259, -7.0599]
+      }
+    }
+  },
+  {
+    "id": 215,
+    "name": "Kabupaten Purbalingga",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Purbalingga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.4259, -7.3059]
+      }
+    }
+  },
+  {
+    "id": 216,
+    "name": "Kabupaten Purworejo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Purworejo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.9989, -7.6965]
+      }
+    }
+  },
+  {
+    "id": 217,
+    "name": "Kabupaten Rembang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Rembang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4276, -6.8082]
+      }
+    }
+  },
+  {
+    "id": 218,
+    "name": "Kabupaten Semarang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Semarang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4739, -7.1765]
+      }
+    }
+  },
+  {
+    "id": 219,
+    "name": "Kabupaten Sragen",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sragen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.0092, -7.4303]
+      }
+    }
+  },
+  {
+    "id": 220,
+    "name": "Kabupaten Sukoharjo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sukoharjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.8553, -7.6484]
+      }
+    }
+  },
+  {
+    "id": 221,
+    "name": "Kabupaten Tegal",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.1048, -6.8588]
+      }
+    }
+  },
+  {
+    "id": 222,
+    "name": "Kabupaten Temanggung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Temanggung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.0892, -7.2749]
+      }
+    }
+  },
+  {
+    "id": 223,
+    "name": "Kabupaten Wonogiri",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Wonogiri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.046, -7.8846]
+      }
+    }
+  },
+  {
+    "id": 224,
+    "name": "Kabupaten Wonosobo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Wonosobo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.9002, -7.3632]
+      }
+    }
+  },
+  {
+    "id": 225,
+    "name": "Kota Magelang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Magelang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.2177, -7.4797]
+      }
+    }
+  },
+  {
+    "id": 226,
+    "name": "Kota Pekalongan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pekalongan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6746, -6.8898]
+      }
+    }
+  },
+  {
+    "id": 227,
+    "name": "Kota Salatiga",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Salatiga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.5084, -7.3305]
+      }
+    }
+  },
+  {
+    "id": 228,
+    "name": "Kota Semarang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Semarang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4381, -7.0051]
+      }
+    }
+  },
+  {
+    "id": 229,
+    "name": "Kota Surakarta",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Surakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.8243, -7.5755]
+      }
+    }
+  },
+  {
+    "id": 230,
+    "name": "Kota Tegal",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tegal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.1256, -6.8797]
+      }
+    }
+  },
+  {
+    "id": 231,
+    "name": "Kabupaten Bantul",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bantul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3785, -7.919]
+      }
+    }
+  },
+  {
+    "id": 232,
+    "name": "Kabupaten Gunungkidul",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gunungkidul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.6169, -8.0305]
+      }
+    }
+  },
+  {
+    "id": 233,
+    "name": "Kabupaten Kulon Progo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kulon Progo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.1641, -7.8267]
+      }
+    }
+  },
+  {
+    "id": 234,
+    "name": "Kabupaten Sleman",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sleman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4024, -7.7325]
+      }
+    }
+  },
+  {
+    "id": 235,
+    "name": "Kota Yogyakarta",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Yogyakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.3695, -7.7956]
+      }
+    }
+  },
+  {
+    "id": 236,
+    "name": "Kabupaten Bangkalan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bangkalan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.9137, -7.0384]
+      }
+    }
+  },
+  {
+    "id": 237,
+    "name": "Kabupaten Banyuwangi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banyuwangi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.3691, -8.2191]
+      }
+    }
+  },
+  {
+    "id": 238,
+    "name": "Kabupaten Blitar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Blitar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.1609, -8.0955]
+      }
+    }
+  },
+  {
+    "id": 239,
+    "name": "Kabupaten Bojonegoro",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bojonegoro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.7615, -7.3175]
+      }
+    }
+  },
+  {
+    "id": 240,
+    "name": "Kabupaten Bondowoso",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bondowoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.9061, -7.9674]
+      }
+    }
+  },
+  {
+    "id": 241,
+    "name": "Kabupaten Gresik",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gresik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5722, -7.155]
+      }
+    }
+  },
+  {
+    "id": 242,
+    "name": "Kabupaten Jember",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Jember"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.6681, -8.1845]
+      }
+    }
+  },
+  {
+    "id": 243,
+    "name": "Kabupaten Jombang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Jombang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.2861, -7.5741]
+      }
+    }
+  },
+  {
+    "id": 244,
+    "name": "Kabupaten Kediri",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kediri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.1907, -7.8232]
+      }
+    }
+  },
+  {
+    "id": 245,
+    "name": "Kabupaten Lamongan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lamongan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.3338, -7.1269]
+      }
+    }
+  },
+  {
+    "id": 246,
+    "name": "Kabupaten Lumajang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lumajang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.1442, -8.0944]
+      }
+    }
+  },
+  {
+    "id": 247,
+    "name": "Kabupaten Madiun",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Madiun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.6184, -7.6093]
+      }
+    }
+  },
+  {
+    "id": 248,
+    "name": "Kabupaten Magetan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Magetan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.356, -7.6433]
+      }
+    }
+  },
+  {
+    "id": 249,
+    "name": "Kabupaten Malang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Malang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7152, -8.2422]
+      }
+    }
+  },
+  {
+    "id": 250,
+    "name": "Kabupaten Mojokerto",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mojokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4351, -7.4699]
+      }
+    }
+  },
+  {
+    "id": 251,
+    "name": "Kabupaten Nganjuk",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nganjuk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.9046, -7.5944]
+      }
+    }
+  },
+  {
+    "id": 252,
+    "name": "Kabupaten Ngawi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ngawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.3322, -7.461]
+      }
+    }
+  },
+  {
+    "id": 253,
+    "name": "Kabupaten Pacitan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pacitan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.1414, -8.1263]
+      }
+    }
+  },
+  {
+    "id": 254,
+    "name": "Kabupaten Pamekasan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pamekasan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.5252, -7.1051]
+      }
+    }
+  },
+  {
+    "id": 255,
+    "name": "Kabupaten Pasuruan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pasuruan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8582, -7.786]
+      }
+    }
+  },
+  {
+    "id": 256,
+    "name": "Kabupaten Ponorogo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ponorogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.4696, -7.8651]
+      }
+    }
+  },
+  {
+    "id": 257,
+    "name": "Kabupaten Probolinggo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Probolinggo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.4776, -7.8718]
+      }
+    }
+  },
+  {
+    "id": 258,
+    "name": "Kabupaten Sampang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sampang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2394, -7.0402]
+      }
+    }
+  },
+  {
+    "id": 259,
+    "name": "Kabupaten Sidoarjo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sidoarjo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6675, -7.4726]
+      }
+    }
+  },
+  {
+    "id": 260,
+    "name": "Kabupaten Situbondo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Situbondo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1915, -7.7889]
+      }
+    }
+  },
+  {
+    "id": 261,
+    "name": "Kabupaten Sumenep",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumenep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.9061, -6.9254]
+      }
+    }
+  },
+  {
+    "id": 262,
+    "name": "Kabupaten Trenggalek",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Trenggalek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.6184, -8.1824]
+      }
+    }
+  },
+  {
+    "id": 263,
+    "name": "Kabupaten Tuban",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tuban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.0298, -6.8955]
+      }
+    }
+  },
+  {
+    "id": 264,
+    "name": "Kabupaten Tulungagung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tulungagung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.9642, -8.0912]
+      }
+    }
+  },
+  {
+    "id": 265,
+    "name": "Kota Batu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Batu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5334, -7.8831]
+      }
+    }
+  },
+  {
+    "id": 266,
+    "name": "Kota Blitar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Blitar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.1609, -8.0955]
+      }
+    }
+  },
+  {
+    "id": 267,
+    "name": "Kota Kediri",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Kediri"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.0178, -7.848]
+      }
+    }
+  },
+  {
+    "id": 268,
+    "name": "Kota Madiun",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Madiun"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.53, -7.6311]
+      }
+    }
+  },
+  {
+    "id": 269,
+    "name": "Kota Malang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Malang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.6326, -7.9666]
+      }
+    }
+  },
+  {
+    "id": 270,
+    "name": "Kota Mojokerto",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Mojokerto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4401, -7.4705]
+      }
+    }
+  },
+  {
+    "id": 271,
+    "name": "Kota Pasuruan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pasuruan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8999, -7.6469]
+      }
+    }
+  },
+  {
+    "id": 272,
+    "name": "Kota Probolinggo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Probolinggo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.2037, -7.7764]
+      }
+    }
+  },
+  {
+    "id": 273,
+    "name": "Kota Surabaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Surabaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.7521, -7.2575]
+      }
+    }
+  },
+  {
+    "id": 274,
+    "name": "Kabupaten Badung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Badung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.1771, -8.5819]
+      }
+    }
+  },
+  {
+    "id": 275,
+    "name": "Kabupaten Bangli",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bangli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.3549, -8.2976]
+      }
+    }
+  },
+  {
+    "id": 276,
+    "name": "Kabupaten Buleleng",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buleleng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.9517, -8.2239]
+      }
+    }
+  },
+  {
+    "id": 277,
+    "name": "Kabupaten Gianyar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gianyar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.2601, -8.4248]
+      }
+    }
+  },
+  {
+    "id": 278,
+    "name": "Kabupaten Jembrana",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Jembrana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.6668, -8.3233]
+      }
+    }
+  },
+  {
+    "id": 279,
+    "name": "Kabupaten Karangasem",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Karangasem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.5207, -8.3466]
+      }
+    }
+  },
+  {
+    "id": 280,
+    "name": "Kabupaten Klungkung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Klungkung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.5444, -8.7278]
+      }
+    }
+  },
+  {
+    "id": 281,
+    "name": "Kabupaten Tabanan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tabanan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.0466, -8.4596]
+      }
+    }
+  },
+  {
+    "id": 282,
+    "name": "Kota Denpasar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Denpasar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.2126, -8.6705]
+      }
+    }
+  },
+  {
+    "id": 283,
+    "name": "Kabupaten Bima",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.6265, -8.4354]
+      }
+    }
+  },
+  {
+    "id": 284,
+    "name": "Kabupaten Dompu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Dompu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.3462, -8.5364]
+      }
+    }
+  },
+  {
+    "id": 285,
+    "name": "Kabupaten Lombok Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lombok Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.1123, -8.6465]
+      }
+    }
+  },
+  {
+    "id": 286,
+    "name": "Kabupaten Lombok Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lombok Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.2777, -8.6946]
+      }
+    }
+  },
+  {
+    "id": 287,
+    "name": "Kabupaten Lombok Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lombok Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.561, -8.5134]
+      }
+    }
+  },
+  {
+    "id": 288,
+    "name": "Kabupaten Lombok Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lombok Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.2777, -8.3739]
+      }
+    }
+  },
+  {
+    "id": 289,
+    "name": "Kabupaten Sumbawa",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumbawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.3616, -8.6529]
+      }
+    }
+  },
+  {
+    "id": 290,
+    "name": "Kabupaten Sumbawa Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumbawa Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.891, -8.9293]
+      }
+    }
+  },
+  {
+    "id": 291,
+    "name": "Kota Bima",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.7449, -8.4643]
+      }
+    }
+  },
+  {
+    "id": 292,
+    "name": "Kota Mataram",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Mataram"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.1005, -8.577]
+      }
+    }
+  },
+  {
+    "id": 293,
+    "name": "Kabupaten Alor",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Alor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.5528, -8.2928]
+      }
+    }
+  },
+  {
+    "id": 294,
+    "name": "Kabupaten Belu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Belu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.9066, -9.1539]
+      }
+    }
+  },
+  {
+    "id": 295,
+    "name": "Kabupaten Ende",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ende"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.7195, -8.6763]
+      }
+    }
+  },
+  {
+    "id": 296,
+    "name": "Kabupaten Flores Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Flores Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.9663, -8.3131]
+      }
+    }
+  },
+  {
+    "id": 297,
+    "name": "Kabupaten Kupang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kupang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8858, -9.9906]
+      }
+    }
+  },
+  {
+    "id": 298,
+    "name": "Kabupaten Lembata",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lembata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.4832, -8.4719]
+      }
+    }
+  },
+  {
+    "id": 299,
+    "name": "Kabupaten Malaka",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Malaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.9066, -9.5309]
+      }
+    }
+  },
+  {
+    "id": 300,
+    "name": "Kabupaten Manggarai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Manggarai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.3897, -8.6797]
+      }
+    }
+  },
+  {
+    "id": 301,
+    "name": "Kabupaten Manggarai Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Manggarai Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.0665, -8.6688]
+      }
+    }
+  },
+  {
+    "id": 302,
+    "name": "Kabupaten Manggarai Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Manggarai Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.62, -8.6207]
+      }
+    }
+  },
+  {
+    "id": 303,
+    "name": "Kabupaten Ngada",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ngada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9876, -8.743]
+      }
+    }
+  },
+  {
+    "id": 304,
+    "name": "Kabupaten Nagekeo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nagekeo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.3084, -8.6754]
+      }
+    }
+  },
+  {
+    "id": 305,
+    "name": "Kabupaten Rote Ndao",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Rote Ndao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.1239, -10.7386]
+      }
+    }
+  },
+  {
+    "id": 306,
+    "name": "Kabupaten Sabu Raijua",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sabu Raijua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.8335, -10.5541]
+      }
+    }
+  },
+  {
+    "id": 307,
+    "name": "Kabupaten Sikka",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sikka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.1292, -8.6766]
+      }
+    }
+  },
+  {
+    "id": 308,
+    "name": "Kabupaten Sumba Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumba Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.3947, -9.6548]
+      }
+    }
+  },
+  {
+    "id": 309,
+    "name": "Kabupaten Sumba Barat Daya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumba Barat Daya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.1391, -9.5391]
+      }
+    }
+  },
+  {
+    "id": 310,
+    "name": "Kabupaten Sumba Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumba Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.6963, -9.4879]
+      }
+    }
+  },
+  {
+    "id": 311,
+    "name": "Kabupaten Sumba Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sumba Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.3436, -9.9802]
+      }
+    }
+  },
+  {
+    "id": 312,
+    "name": "Kabupaten Timor Tengah Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Timor Tengah Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.4198, -9.7763]
+      }
+    }
+  },
+  {
+    "id": 313,
+    "name": "Kabupaten Timor Tengah Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Timor Tengah Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.5971, -9.4523]
+      }
+    }
+  },
+  {
+    "id": 314,
+    "name": "Kota Kupang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Kupang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.607, -10.1772]
+      }
+    }
+  },
+  {
+    "id": 315,
+    "name": "Kabupaten Bengkayang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bengkayang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6639, 1.0691]
+      }
+    }
+  },
+  {
+    "id": 316,
+    "name": "Kabupaten Kapuas Hulu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kapuas Hulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.0012, 0.8337]
+      }
+    }
+  },
+  {
+    "id": 317,
+    "name": "Kabupaten Kayong Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kayong Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.045, -0.9226]
+      }
+    }
+  },
+  {
+    "id": 318,
+    "name": "Kabupaten Ketapang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Ketapang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.5215, -1.5698]
+      }
+    }
+  },
+  {
+    "id": 319,
+    "name": "Kabupaten Kubu Raya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kubu Raya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.4735, -0.3534]
+      }
+    }
+  },
+  {
+    "id": 320,
+    "name": "Kabupaten Landak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Landak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.7592, 0.4237]
+      }
+    }
+  },
+  {
+    "id": 321,
+    "name": "Kabupaten Melawi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Melawi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.6661, -0.7001]
+      }
+    }
+  },
+  {
+    "id": 322,
+    "name": "Kabupaten Mempawah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mempawah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.1404, 0.3897]
+      }
+    }
+  },
+  {
+    "id": 323,
+    "name": "Kabupaten Sambas",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sambas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.2832, 1.3625]
+      }
+    }
+  },
+  {
+    "id": 324,
+    "name": "Kabupaten Sanggau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sanggau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.5215, 0.14]
+      }
+    }
+  },
+  {
+    "id": 325,
+    "name": "Kabupaten Sekadau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sekadau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.9984, -0.0697]
+      }
+    }
+  },
+  {
+    "id": 326,
+    "name": "Kabupaten Sintang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sintang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8106, -0.1378]
+      }
+    }
+  },
+  {
+    "id": 327,
+    "name": "Kota Pontianak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Pontianak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.3425, -0.0263]
+      }
+    }
+  },
+  {
+    "id": 328,
+    "name": "Kota Singkawang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Singkawang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.9872, 0.906]
+      }
+    }
+  },
+  {
+    "id": 329,
+    "name": "Kabupaten Balangan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Balangan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.6155, -2.326]
+      }
+    }
+  },
+  {
+    "id": 330,
+    "name": "Kabupaten Banjar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banjar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.9991, -3.32]
+      }
+    }
+  },
+  {
+    "id": 331,
+    "name": "Kabupaten Barito Kuala",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Barito Kuala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.6668, -3.0715]
+      }
+    }
+  },
+  {
+    "id": 332,
+    "name": "Kabupaten Hulu Sungai Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Hulu Sungai Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.2363, -2.7663]
+      }
+    }
+  },
+  {
+    "id": 333,
+    "name": "Kabupaten Hulu Sungai Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Hulu Sungai Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.5207, -2.6153]
+      }
+    }
+  },
+  {
+    "id": 334,
+    "name": "Kabupaten Hulu Sungai Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Hulu Sungai Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.1889, -2.4421]
+      }
+    }
+  },
+  {
+    "id": 335,
+    "name": "Kabupaten Kotabaru",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kotabaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.9468, -3.003]
+      }
+    }
+  },
+  {
+    "id": 336,
+    "name": "Kabupaten Tabalong",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tabalong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.5681, -1.8643]
+      }
+    }
+  },
+  {
+    "id": 337,
+    "name": "Kabupaten Tanah Bumbu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tanah Bumbu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.5681, -3.4512]
+      }
+    }
+  },
+  {
+    "id": 338,
+    "name": "Kabupaten Tanah Laut",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tanah Laut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.8093, -3.7694]
+      }
+    }
+  },
+  {
+    "id": 339,
+    "name": "Kabupaten Tapin",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tapin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.0466, -2.9161]
+      }
+    }
+  },
+  {
+    "id": 340,
+    "name": "Kota Banjarbaru",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Banjarbaru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.8103, -3.4572]
+      }
+    }
+  },
+  {
+    "id": 341,
+    "name": "Kota Banjarmasin",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Banjarmasin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5944, -3.3186]
+      }
+    }
+  },
+  {
+    "id": 342,
+    "name": "Kabupaten Barito Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Barito Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.8093, -1.8759]
+      }
+    }
+  },
+  {
+    "id": 343,
+    "name": "Kabupaten Barito Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Barito Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.1889, -2.0124]
+      }
+    }
+  },
+  {
+    "id": 344,
+    "name": "Kabupaten Barito Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Barito Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.094, -0.9587]
+      }
+    }
+  },
+  {
+    "id": 345,
+    "name": "Kabupaten Gunung Mas",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gunung Mas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.5729, -1.2522]
+      }
+    }
+  },
+  {
+    "id": 346,
+    "name": "Kabupaten Kapuas",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kapuas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.3341, -1.8116]
+      }
+    }
+  },
+  {
+    "id": 347,
+    "name": "Kabupaten Katingan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Katingan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8106, -0.9758]
+      }
+    }
+  },
+  {
+    "id": 348,
+    "name": "Kabupaten Kotawaringin Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kotawaringin Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.7615, -2.5063]
+      }
+    }
+  },
+  {
+    "id": 349,
+    "name": "Kabupaten Kotawaringin Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kotawaringin Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.8106, -2.1225]
+      }
+    }
+  },
+  {
+    "id": 350,
+    "name": "Kabupaten Lamandau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lamandau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.2845, -1.8526]
+      }
+    }
+  },
+  {
+    "id": 351,
+    "name": "Kabupaten Murung Raya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Murung Raya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.3341, -0.1362]
+      }
+    }
+  },
+  {
+    "id": 352,
+    "name": "Kabupaten Pulang Pisau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pulang Pisau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.9536, -2.685]
+      }
+    }
+  },
+  {
+    "id": 353,
+    "name": "Kabupaten Sukamara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sukamara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.2368, -2.6268]
+      }
+    }
+  },
+  {
+    "id": 354,
+    "name": "Kabupaten Seruyan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Seruyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.4291, -3.0123]
+      }
+    }
+  },
+  {
+    "id": 355,
+    "name": "Kota Palangkaraya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Palangkaraya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [113.914, -2.2161]
+      }
+    }
+  },
+  {
+    "id": 356,
+    "name": "Kabupaten Berau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Berau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.3616, 2.0451]
+      }
+    }
+  },
+  {
+    "id": 357,
+    "name": "Kabupaten Kutai Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kutai Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.8522, -0.4052]
+      }
+    }
+  },
+  {
+    "id": 358,
+    "name": "Kabupaten Kutai Kartanegara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kutai Kartanegara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.6082, -0.1337]
+      }
+    }
+  },
+  {
+    "id": 359,
+    "name": "Kabupaten Kutai Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kutai Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.9852, 0.9434]
+      }
+    }
+  },
+  {
+    "id": 360,
+    "name": "Kabupaten Mahakam Ulu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mahakam Ulu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.7143, 0.9617]
+      }
+    }
+  },
+  {
+    "id": 361,
+    "name": "Kabupaten Paser",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Paser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.9468, -1.7175]
+      }
+    }
+  },
+  {
+    "id": 362,
+    "name": "Kabupaten Penajam Paser Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Penajam Paser Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.5138, -1.2917]
+      }
+    }
+  },
+  {
+    "id": 363,
+    "name": "Kota Balikpapan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Balikpapan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.8529, -1.2379]
+      }
+    }
+  },
+  {
+    "id": 364,
+    "name": "Kota Bontang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bontang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.48, 0.1209]
+      }
+    }
+  },
+  {
+    "id": 365,
+    "name": "Kota Samarinda",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Samarinda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.1436, -0.4948]
+      }
+    }
+  },
+  {
+    "id": 366,
+    "name": "Kabupaten Bulungan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bulungan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.9852, 2.9042]
+      }
+    }
+  },
+  {
+    "id": 367,
+    "name": "Kabupaten Malinau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Malinau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.0414, 3.0731]
+      }
+    }
+  },
+  {
+    "id": 368,
+    "name": "Kabupaten Nunukan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nunukan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.6082, 4.081]
+      }
+    }
+  },
+  {
+    "id": 369,
+    "name": "Kabupaten Tana Tidung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tana Tidung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.0794, 3.5519]
+      }
+    }
+  },
+  {
+    "id": 370,
+    "name": "Kota Tarakan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tarakan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [117.5785, 3.3274]
+      }
+    }
+  },
+  {
+    "id": 371,
+    "name": "Kabupaten Boalemo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Boalemo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.2654, 0.7013]
+      }
+    }
+  },
+  {
+    "id": 372,
+    "name": "Kabupaten Bone Bolango",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bone Bolango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.3486, 0.5658]
+      }
+    }
+  },
+  {
+    "id": 373,
+    "name": "Kabupaten Gorontalo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gorontalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8084, 0.5693]
+      }
+    }
+  },
+  {
+    "id": 374,
+    "name": "Kabupaten Gorontalo Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gorontalo Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.492, 0.9253]
+      }
+    }
+  },
+  {
+    "id": 375,
+    "name": "Kabupaten Pohuwato",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pohuwato"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.7195, 0.7055]
+      }
+    }
+  },
+  {
+    "id": 376,
+    "name": "Kota Gorontalo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Gorontalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.0568, 0.5435]
+      }
+    }
+  },
+  {
+    "id": 377,
+    "name": "Kabupaten Bantaeng",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bantaeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.0203, -5.5169]
+      }
+    }
+  },
+  {
+    "id": 378,
+    "name": "Kabupaten Barru",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Barru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.6499, -4.4364]
+      }
+    }
+  },
+  {
+    "id": 379,
+    "name": "Kabupaten Bone",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.0665, -4.7443]
+      }
+    }
+  },
+  {
+    "id": 380,
+    "name": "Kabupaten Bulukumba",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bulukumba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.2051, -5.4329]
+      }
+    }
+  },
+  {
+    "id": 381,
+    "name": "Kabupaten Enrekang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Enrekang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.8815, -3.4591]
+      }
+    }
+  },
+  {
+    "id": 382,
+    "name": "Kabupaten Gowa",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Gowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.7426, -5.3103]
+      }
+    }
+  },
+  {
+    "id": 383,
+    "name": "Kabupaten Jeneponto",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Jeneponto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.6731, -5.5546]
+      }
+    }
+  },
+  {
+    "id": 384,
+    "name": "Kabupaten Kepulauan Selayar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Selayar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.5049, -6.287]
+      }
+    }
+  },
+  {
+    "id": 385,
+    "name": "Kabupaten Luwu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Luwu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.2513, -3.3052]
+      }
+    }
+  },
+  {
+    "id": 386,
+    "name": "Kabupaten Luwu Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Luwu Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.171, -2.5826]
+      }
+    }
+  },
+  {
+    "id": 387,
+    "name": "Kabupaten Luwu Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Luwu Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.9741, -2.269]
+      }
+    }
+  },
+  {
+    "id": 388,
+    "name": "Kabupaten Maros",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Maros"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.6963, -5.0549]
+      }
+    }
+  },
+  {
+    "id": 389,
+    "name": "Kabupaten Pangkajene Dan Kepulauan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pangkajene Dan Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.5572, -4.805]
+      }
+    }
+  },
+  {
+    "id": 390,
+    "name": "Kabupaten Pinrang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pinrang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.5572, -3.6483]
+      }
+    }
+  },
+  {
+    "id": 391,
+    "name": "Kabupaten Sidenreng Rappang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sidenreng Rappang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.0203, -3.7739]
+      }
+    }
+  },
+  {
+    "id": 392,
+    "name": "Kabupaten Sinjai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sinjai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.1127, -5.2172]
+      }
+    }
+  },
+  {
+    "id": 393,
+    "name": "Kabupaten Soppeng",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Soppeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.9278, -4.3519]
+      }
+    }
+  },
+  {
+    "id": 394,
+    "name": "Kabupaten Takalar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Takalar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.4876, -5.4162]
+      }
+    }
+  },
+  {
+    "id": 395,
+    "name": "Kabupaten Tana Toraja",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tana Toraja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.7426, -3.0753]
+      }
+    }
+  },
+  {
+    "id": 396,
+    "name": "Kabupaten Toraja Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Toraja Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.8352, -2.8622]
+      }
+    }
+  },
+  {
+    "id": 397,
+    "name": "Kabupaten Wajo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Wajo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.0665, -4.0222]
+      }
+    }
+  },
+  {
+    "id": 398,
+    "name": "Kota Makassar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Makassar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.4327, -5.1477]
+      }
+    }
+  },
+  {
+    "id": 399,
+    "name": "Kota Palopo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Palopo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.1985, -3.0016]
+      }
+    }
+  },
+  {
+    "id": 400,
+    "name": "Kota Parepare",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Parepare"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.6291, -4.0096]
+      }
+    }
+  },
+  {
+    "id": 401,
+    "name": "Kabupaten Bombana",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bombana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.9018, -4.6543]
+      }
+    }
+  },
+  {
+    "id": 402,
+    "name": "Kabupaten Buton",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buton"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.9888, -5.3096]
+      }
+    }
+  },
+  {
+    "id": 403,
+    "name": "Kabupaten Buton Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buton Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.9888, -5.3096]
+      }
+    }
+  },
+  {
+    "id": 404,
+    "name": "Kabupaten Buton Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buton Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.5599, -5.3891]
+      }
+    }
+  },
+  {
+    "id": 405,
+    "name": "Kabupaten Buton Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buton Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.0339, -4.7023]
+      }
+    }
+  },
+  {
+    "id": 406,
+    "name": "Kabupaten Kolaka",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kolaka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5827, -3.9947]
+      }
+    }
+  },
+  {
+    "id": 407,
+    "name": "Kabupaten Kolaka Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kolaka Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.9018, -4.2279]
+      }
+    }
+  },
+  {
+    "id": 408,
+    "name": "Kabupaten Kolaka Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kolaka Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.171, -3.1347]
+      }
+    }
+  },
+  {
+    "id": 409,
+    "name": "Kabupaten Konawe",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Konawe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.0837, -3.938]
+      }
+    }
+  },
+  {
+    "id": 410,
+    "name": "Kabupaten Konawe Kepulauan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Konawe Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.1239, -4.1361]
+      }
+    }
+  },
+  {
+    "id": 411,
+    "name": "Kabupaten Konawe Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Konawe Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.4467, -4.2028]
+      }
+    }
+  },
+  {
+    "id": 412,
+    "name": "Kabupaten Konawe Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Konawe Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.0837, -3.3803]
+      }
+    }
+  },
+  {
+    "id": 413,
+    "name": "Kabupaten Muna",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Muna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.6277, -4.9016]
+      }
+    }
+  },
+  {
+    "id": 414,
+    "name": "Kabupaten Muna Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Muna Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.6277, -4.9016]
+      }
+    }
+  },
+  {
+    "id": 415,
+    "name": "Kabupaten Wakatobi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Wakatobi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8902, -5.6504]
+      }
+    }
+  },
+  {
+    "id": 416,
+    "name": "Kota Bau-bau",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bau-bau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.5969, -5.5071]
+      }
+    }
+  },
+  {
+    "id": 417,
+    "name": "Kota Kendari",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Kendari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.513, -3.9985]
+      }
+    }
+  },
+  {
+    "id": 418,
+    "name": "Kabupaten Banggai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banggai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.6277, -0.9562]
+      }
+    }
+  },
+  {
+    "id": 419,
+    "name": "Kabupaten Banggai Kepulauan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banggai Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.6277, -0.9562]
+      }
+    }
+  },
+  {
+    "id": 420,
+    "name": "Kabupaten Banggai Laut",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Banggai Laut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.5504, -1.6735]
+      }
+    }
+  },
+  {
+    "id": 421,
+    "name": "Kabupaten Buol",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.3542, 0.9695]
+      }
+    }
+  },
+  {
+    "id": 422,
+    "name": "Kabupaten Donggala",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Donggala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.8352, -0.4233]
+      }
+    }
+  },
+  {
+    "id": 423,
+    "name": "Kabupaten Morowali",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Morowali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.9018, -2.6987]
+      }
+    }
+  },
+  {
+    "id": 424,
+    "name": "Kabupaten Morowali Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Morowali Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.3542, -1.6312]
+      }
+    }
+  },
+  {
+    "id": 425,
+    "name": "Kabupaten Parigi Moutong",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Parigi Moutong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.8039, 0.5818]
+      }
+    }
+  },
+  {
+    "id": 426,
+    "name": "Kabupaten Poso",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Poso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.4358, -1.6469]
+      }
+    }
+  },
+  {
+    "id": 427,
+    "name": "Kabupaten Sigi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sigi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.8815, -1.386]
+      }
+    }
+  },
+  {
+    "id": 428,
+    "name": "Kabupaten Tojo Una-una",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tojo Una-una"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.537, -1.0988]
+      }
+    }
+  },
+  {
+    "id": 429,
+    "name": "Kabupaten Toli-toli",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Toli-toli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.758, 0.8768]
+      }
+    }
+  },
+  {
+    "id": 430,
+    "name": "Kota Palu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Palu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.878, -0.9003]
+      }
+    }
+  },
+  {
+    "id": 431,
+    "name": "Kabupaten Bolaang Mongondow",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bolaang Mongondow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.0641, 0.6871]
+      }
+    }
+  },
+  {
+    "id": 432,
+    "name": "Kabupaten Bolaang Mongondow Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bolaang Mongondow Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.8411, 0.4053]
+      }
+    }
+  },
+  {
+    "id": 433,
+    "name": "Kabupaten Bolaang Mongondow Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bolaang Mongondow Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.4642, 0.7153]
+      }
+    }
+  },
+  {
+    "id": 434,
+    "name": "Kabupaten Bolaang Mongondow Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Bolaang Mongondow Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [123.2657, 0.907]
+      }
+    }
+  },
+  {
+    "id": 435,
+    "name": "Kabupaten Kepulauan Sangihe",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Sangihe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.5001, 3.6329]
+      }
+    }
+  },
+  {
+    "id": 436,
+    "name": "Kabupaten Kepulauan Siau Tagulandang Biaro",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Siau Tagulandang Biaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.4124, 2.346]
+      }
+    }
+  },
+  {
+    "id": 437,
+    "name": "Kabupaten Kepulauan Talaud",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Talaud"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.8035, 4.3067]
+      }
+    }
+  },
+  {
+    "id": 438,
+    "name": "Kabupaten Minahasa",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Minahasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.8183, 1.2169]
+      }
+    }
+  },
+  {
+    "id": 439,
+    "name": "Kabupaten Minahasa Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Minahasa Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.4642, 1.0947]
+      }
+    }
+  },
+  {
+    "id": 440,
+    "name": "Kabupaten Minahasa Tenggara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Minahasa Tenggara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.7299, 1.0279]
+      }
+    }
+  },
+  {
+    "id": 441,
+    "name": "Kabupaten Minahasa Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Minahasa Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.9948, 1.5328]
+      }
+    }
+  },
+  {
+    "id": 442,
+    "name": "Kota Bitung",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Bitung"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.1217, 1.4404]
+      }
+    }
+  },
+  {
+    "id": 443,
+    "name": "Kota Kotamobagu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Kotamobagu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.3199, 0.7244]
+      }
+    }
+  },
+  {
+    "id": 444,
+    "name": "Kota Manado",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Manado"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.8421, 1.4748]
+      }
+    }
+  },
+  {
+    "id": 445,
+    "name": "Kota Tomohon",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tomohon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.8405, 1.3229]
+      }
+    }
+  },
+  {
+    "id": 446,
+    "name": "Kabupaten Majene",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Majene"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [118.9063, -3.0297]
+      }
+    }
+  },
+  {
+    "id": 447,
+    "name": "Kabupaten Mamasa",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mamasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.325, -2.9118]
+      }
+    }
+  },
+  {
+    "id": 448,
+    "name": "Kabupaten Mamuju",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mamuju"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.325, -2.492]
+      }
+    }
+  },
+  {
+    "id": 449,
+    "name": "Kabupaten Mamuju Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mamuju Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.5108, -1.9354]
+      }
+    }
+  },
+  {
+    "id": 450,
+    "name": "Kabupaten Mamuju Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mamuju Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.5108, -1.5265]
+      }
+    }
+  },
+  {
+    "id": 451,
+    "name": "Kabupaten Polewali Mandar",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Polewali Mandar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.1391, -3.3419]
+      }
+    }
+  },
+  {
+    "id": 452,
+    "name": "Kabupaten Buru",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.6957, -3.3307]
+      }
+    }
+  },
+  {
+    "id": 453,
+    "name": "Kabupaten Buru Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Buru Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.6957, -3.7274]
+      }
+    }
+  },
+  {
+    "id": 454,
+    "name": "Kabupaten Kepulauan Aru",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Aru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.5502, -6.1947]
+      }
+    }
+  },
+  {
+    "id": 455,
+    "name": "Kabupaten Maluku Barat Daya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Maluku Barat Daya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [126.3498, -7.7852]
+      }
+    }
+  },
+  {
+    "id": 456,
+    "name": "Kabupaten Maluku Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Maluku Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [129.4864, -3.0167]
+      }
+    }
+  },
+  {
+    "id": 457,
+    "name": "Kabupaten Maluku Tenggara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Maluku Tenggara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.7272, -5.7512]
+      }
+    }
+  },
+  {
+    "id": 458,
+    "name": "Kabupaten Maluku Tenggara Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Maluku Tenggara Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.3611, -7.5323]
+      }
+    }
+  },
+  {
+    "id": 459,
+    "name": "Kabupaten Seram Bagian Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Seram Bagian Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.4008, -3.1272]
+      }
+    }
+  },
+  {
+    "id": 460,
+    "name": "Kabupaten Seram Bagian Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Seram Bagian Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.2271, -3.4233]
+      }
+    }
+  },
+  {
+    "id": 461,
+    "name": "Kota Ambon",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Ambon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.1908, -3.6554]
+      }
+    }
+  },
+  {
+    "id": 462,
+    "name": "Kota Tual",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tual"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.7521, -5.6266]
+      }
+    }
+  },
+  {
+    "id": 463,
+    "name": "Kabupaten Halmahera Barat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Halmahera Barat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.5961, 1.359]
+      }
+    }
+  },
+  {
+    "id": 464,
+    "name": "Kabupaten Halmahera Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Halmahera Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.3587, 0.442]
+      }
+    }
+  },
+  {
+    "id": 465,
+    "name": "Kabupaten Halmahera Utara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Halmahera Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.8937, 1.5074]
+      }
+    }
+  },
+  {
+    "id": 466,
+    "name": "Kabupaten Halmahera Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Halmahera Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.7238, -1.5109]
+      }
+    }
+  },
+  {
+    "id": 467,
+    "name": "Kabupaten Kepulauan Sula",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Sula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.3431, -1.8456]
+      }
+    }
+  },
+  {
+    "id": 468,
+    "name": "Kabupaten Halmahera Timur",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Halmahera Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.485, 1.3121]
+      }
+    }
+  },
+  {
+    "id": 469,
+    "name": "Kabupaten Pulau Morotai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pulau Morotai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [128.4008, 2.3657]
+      }
+    }
+  },
+  {
+    "id": 470,
+    "name": "Kabupaten Pulau Taliabu",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pulau Taliabu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.7741, -1.8268]
+      }
+    }
+  },
+  {
+    "id": 471,
+    "name": "Kota Ternate",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Ternate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.3695, 0.771]
+      }
+    }
+  },
+  {
+    "id": 472,
+    "name": "Kota Tidore Kepulauan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Tidore Kepulauan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.4041, 0.674]
+      }
+    }
+  },
+  {
+    "id": 473,
+    "name": "Kabupaten Asmat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Asmat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.3988, -5.0574]
+      }
+    }
+  },
+  {
+    "id": 474,
+    "name": "Kabupaten Biak Numfor",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Biak Numfor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.9801, -1.0381]
+      }
+    }
+  },
+  {
+    "id": 475,
+    "name": "Kabupaten Boven Digoel",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Boven Digoel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.3482, -5.74]
+      }
+    }
+  },
+  {
+    "id": 476,
+    "name": "Kabupaten Deiyai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Deiyai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.4393, -4.0975]
+      }
+    }
+  },
+  {
+    "id": 477,
+    "name": "Kabupaten Dogiyai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Dogiyai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.6763, -4.0454]
+      }
+    }
+  },
+  {
+    "id": 478,
+    "name": "Kabupaten Intan Jaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Intan Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.7478, -3.5076]
+      }
+    }
+  },
+  {
+    "id": 479,
+    "name": "Kabupaten Jayapura",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Jayapura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.8547, -2.9879]
+      }
+    }
+  },
+  {
+    "id": 480,
+    "name": "Kabupaten Jayawijaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Jayawijaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.7995, -4.0004]
+      }
+    }
+  },
+  {
+    "id": 481,
+    "name": "Kabupaten Keerom",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Keerom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.7624, -3.345]
+      }
+    }
+  },
+  {
+    "id": 482,
+    "name": "Kabupaten Kepulauan Yapen",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kepulauan Yapen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.1709, -1.7469]
+      }
+    }
+  },
+  {
+    "id": 483,
+    "name": "Kabupaten Lanny Jaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Lanny Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.319, -3.971]
+      }
+    }
+  },
+  {
+    "id": 484,
+    "name": "Kabupaten Mamberamo Raya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mamberamo Raya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.7638, -2.5331]
+      }
+    }
+  },
+  {
+    "id": 485,
+    "name": "Kabupaten Mamberamo Tengah",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mamberamo Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.319, -2.3746]
+      }
+    }
+  },
+  {
+    "id": 486,
+    "name": "Kabupaten Mappi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mappi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.6911, -6.7606]
+      }
+    }
+  },
+  {
+    "id": 487,
+    "name": "Kabupaten Merauke",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Merauke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.0413, -7.7838]
+      }
+    }
+  },
+  {
+    "id": 488,
+    "name": "Kabupaten Mimika",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Mimika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.1362, -4.4553]
+      }
+    }
+  },
+  {
+    "id": 489,
+    "name": "Kabupaten Nabire",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nabire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.7521, -3.5095]
+      }
+    }
+  },
+  {
+    "id": 490,
+    "name": "Kabupaten Nduga",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Nduga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.2394, -4.4069]
+      }
+    }
+  },
+  {
+    "id": 491,
+    "name": "Kabupaten Paniai",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Paniai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.3625, -3.7876]
+      }
+    }
+  },
+  {
+    "id": 492,
+    "name": "Kabupaten Pegunungan Bintang",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pegunungan Bintang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.5136, -4.559]
+      }
+    }
+  },
+  {
+    "id": 493,
+    "name": "Kabupaten Puncak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Puncak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.6062, -3.8649]
+      }
+    }
+  },
+  {
+    "id": 494,
+    "name": "Kabupaten Puncak Jaya",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Puncak Jaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.8427, -3.4468]
+      }
+    }
+  },
+  {
+    "id": 495,
+    "name": "Kabupaten Sarmi",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sarmi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.2031, -2.4678]
+      }
+    }
+  },
+  {
+    "id": 496,
+    "name": "Kabupaten Supiori",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Supiori"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [135.6385, -0.7295]
+      }
+    }
+  },
+  {
+    "id": 497,
+    "name": "Kabupaten Tolikara",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tolikara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.4787, -3.4811]
+      }
+    }
+  },
+  {
+    "id": 498,
+    "name": "Kabupaten Waropen",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Waropen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.1709, -1.7469]
+      }
+    }
+  },
+  {
+    "id": 499,
+    "name": "Kabupaten Yahukimo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Yahukimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.528, -4.494]
+      }
+    }
+  },
+  {
+    "id": 500,
+    "name": "Kabupaten Yalimo",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Yalimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.4466, -3.7853]
+      }
+    }
+  },
+  {
+    "id": 501,
+    "name": "Kota Jayapura",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Jayapura"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.669, -2.5916]
+      }
+    }
+  },
+  {
+    "id": 502,
+    "name": "Kabupaten Yapen Waropen",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Yapen Waropen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [136.1709, -1.7469]
+      }
+    }
+  },
+  {
+    "id": 503,
+    "name": "Kabupaten Fakfak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Fakfak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.0195, -3.0977]
+      }
+    }
+  },
+  {
+    "id": 504,
+    "name": "Kabupaten Kaimana",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Kaimana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.9437, -3.2884]
+      }
+    }
+  },
+  {
+    "id": 505,
+    "name": "Kabupaten Manokwari",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Manokwari"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.0195, -0.999]
+      }
+    }
+  },
+  {
+    "id": 506,
+    "name": "Kabupaten Manokwari Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Manokwari Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.0195, -0.999]
+      }
+    }
+  },
+  {
+    "id": 507,
+    "name": "Kabupaten Maybrat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Maybrat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.3151, -1.2971]
+      }
+    }
+  },
+  {
+    "id": 508,
+    "name": "Kabupaten Pegunungan Arfak",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Pegunungan Arfak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.7142, -1.1555]
+      }
+    }
+  },
+  {
+    "id": 509,
+    "name": "Kabupaten Raja Ampat",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Raja Ampat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [130.8779, -1.0915]
+      }
+    }
+  },
+  {
+    "id": 510,
+    "name": "Kabupaten Sorong",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sorong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.4883, -1.1223]
+      }
+    }
+  },
+  {
+    "id": 511,
+    "name": "Kabupaten Sorong Selatan",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Sorong Selatan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.1573, -1.7658]
+      }
+    }
+  },
+  {
+    "id": 512,
+    "name": "Kabupaten Tambrauw",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Tambrauw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [132.3938, -0.7819]
+      }
+    }
+  },
+  {
+    "id": 513,
+    "name": "Kabupaten Teluk Bintuni",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Teluk Bintuni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [133.3295, -1.9057]
+      }
+    }
+  },
+  {
+    "id": 514,
+    "name": "Kabupaten Teluk Wondama",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kabupaten Teluk Wondama"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.3237, -2.8552]
+      }
+    }
+  },
+  {
+    "id": 515,
+    "name": "Kota Sorong",
+    "coordinate": {
+      "type": "Feature",
+      "properties": {
+        "name": "Kota Sorong"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [131.2558, -0.8762]
+      }
+    }
+  }
+]

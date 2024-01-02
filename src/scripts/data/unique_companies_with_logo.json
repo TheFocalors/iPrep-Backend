@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Travelio",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/c4982139d772ff775a01a92556310c35.jpg",
+    "description": "Travelio.com merupakan perusahaan berbasis online pertama untuk penyewaan rumah jangka pendek yang bertempat di Indonesia. Perusahaan menawarkan properti yang terkelola secara profesional mulai dari apartemen, villa dan rumah. Inventaris properti kami sudah tersedia di lebih dari 25 kota di Indonesia.Travelio menyewakan unit secara keseluruhan tidak per kamar. Anda dapat menemukan beragam properti dengan beberapa kamar seharga 1 kamar hotel, namun lebih luas, lengkap dengan dapur dan ruang tamu. Selain itu, untuk area Jakarta, Anda dapat menemukan unit-unit apartemen yang berstandar hotel, dimana unit-unit tersebut dikelola secara langsung oleh tim Travelio Property Management (by Travelio). Tersedia kebutuhan amenities seperti perlengkapan mandi dan minibar Gratis.",
+    "id": "OlxDXuHyUnP45jtQd-pRL",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "kwv87wZfG4rrLsolzEpTC.jpg"
+  },
+  {
+    "name": "PT Nanyang Chemical Technolgy Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/efce45a396c928e3dc5df56f679c8262.jpg",
+    "description": null,
+    "id": "kM92y5l_--zlgMVWZm5sz",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "kl1--DMza1CK1Gt3flY1L.jpg"
+  },
+  {
+    "name": "Based By Basil",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/257d62373c34ba29f2cdfad2937e1973.png",
+    "description": null,
+    "id": "c7igjJSsRFpFqAzfKcmrT",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "DBdcKwkfj-pB4LgQDzBj2.jpg"
+  },
+  {
+    "name": "PT. Admiral Blesensa Abadi",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/1ddec386f5e701755597e21c0fc01d51.png",
+    "description": "jl. Kyai Caringin no. 8, Cideng Gambir Jakarta Pusat 10150",
+    "id": "jv5E0AQ3z9qlLHc8xBFN2",
+    "city": {
+      "id": 50
+    },
+    "logo_filename": "keRVe7mHH2jg0aPg9dddL.jpg"
+  },
+  {
+    "name": "PT MARI KITA BORONG",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/142f638c75d64107b0463fd2f6e27d2e.png",
+    "description": "Puri Kembangan",
+    "id": "o7voEK6OsqaokpPFl-M4N",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "J70BXMvTdyPhiUdVLMF1t.jpg"
+  },
+  {
+    "name": "PT Mimi Global Asia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/cdc5ab71fe8282028d5d8102a1f9f688.png",
+    "description": "Bintaro",
+    "id": "kiG17OGHdXtXFat7VeQKi",
+    "city": {
+      "id": 165
+    },
+    "logo_filename": "BajUhThLzqWM8eQJ7OuN7.jpg"
+  },
+  {
+    "name": "PT. Medion Farma Jaya",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/b2aca310d79f2bd1c60aa97c497a64a6.jpg",
+    "description": "Jl. Babakan Ciparay No.282, Babakan Ciparay, Kec. Babakan Ciparay, Kota Bandung, Jawa Barat 40223",
+    "id": "eLgOZhwBRZpyzfnhBHazV",
+    "city": {
+      "id": 185
+    },
+    "logo_filename": "5E5CHZu-Sd-yZ9Ao1MDSe.jpg"
+  },
+  {
+    "name": "Pt Abadi Sejahtera Finansindo",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/928ea420c9c3d5b7a534db6d3ce3803a.jpg",
+    "description": "Foresta Business Loft 5 unit 30,Lengkong Kulon,Pagedangan,Tangerang,Banten 15331",
+    "id": "Z_qoxP8Xn9CTEYhvmPT_1",
+    "city": {
+      "id": 165
+    },
+    "logo_filename": "6WmEGQJ57S1vZaX5_WMgK.jpg"
+  },
+  {
+    "name": "StyleTheory",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/b3daef3e187524d7b6ba7a5de3238326.jpg",
+    "description": null,
+    "id": "jNoGb_xfq6JEUwajKjFiN",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "47wBHoiM6nmH6fuleIJAE.jpg"
+  },
+  {
+    "name": "PT Sahabat Petmu Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/ca69690bb0a9c0f19bab3ceb47eb98ed.png",
+    "description": "importier perlengkapan hewan",
+    "id": "EoDeEMEL1ffmzsebzwKD4",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "gYuMy_hdGPu-E-qOCYV-x.jpg"
+  },
+  {
+    "name": "PT. Padma Raharja Sentosa",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/40cb39024ec364abeb3173b8a1ab7c46.png",
+    "description": null,
+    "id": "QvYcmyTzM-UmMtHop4xzA",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "-56i_JDLaV5E7sUmDTyhy.jpg"
+  },
+  {
+    "name": "Mora Perkasa Group",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/32bb5e1c2af69c5654b8ecfbfbbed545.png",
+    "description": "Jl. Bekasi Timur Raya No.KM 17, RT.8/RW.1, Jatinegara Kaum, Kec. Pulo Gadung, Kota Jakarta Timur",
+    "id": "siqw_57FLJOjnItpVQ5-5",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "8g8DY0qsYH6WBZfVyp4ZH.jpg"
+  },
+  {
+    "name": "PT. ALLADA HEBAT SEJAHTERA",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/a7994152bead21caa0216836fb699ec0.png",
+    "description": "Plaza 2, Jl. Taman Plaza Meruya No.RT.22, RT.22/RW.4, Meruya Utara, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11620",
+    "id": "heruaNHXW98fR1YMVj4NE",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "fnxofzuQy0xNuA3NKuGY7.jpg"
+  },
+  {
+    "name": "PT. Global Bintang Timur Ekspress (J&T Express Jakarta)",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/49c6e928826df0ebc3002063fd7ae8c6.jpg",
+    "description": null,
+    "id": "EryXJe43xCz6SFgUIOqnA",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "nKE1qPUIEIDb9_TPIf46u.jpg"
+  },
+  {
+    "name": "Pt. Inovasi Anak Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/2a8f3bf239d6c37dad2338fdc5b0b81a.png",
+    "description": "PARKEE aim to give users a faster, convenient, and seamless parking process by using Technology.  We are currently live in 200+ Parking Location throughout Indonesia.",
+    "id": "bVpEYwAWBMsyN2jUYjVw5",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "zjnJKR80jUteNAjHLAXo6.jpg"
+  },
+  {
+    "name": "PT Code Development Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/b43910cc1253621c07b5f915c6364736.png",
+    "description": "CODE.ID was previously a unit business of INTEGRASI, a system integrator established in 1999 that also provides software services. INTEGRASI was listed in Jakarta Stock Exchange and went to back to become a private company again in 2007. In 2015, CODE.ID become an independently run company which currently has around one hundred passionate developers with a myriad number of skill sets.\u00a0We focuses on helping our customers turn their best ideas and innovations into a product -- \u00a0that can be enjoyed and used in any computing platform, with any technology available.We believe that a product does not only have to be built with passion, but it also has to be functional and technically sound. It must also be easy to use and perhaps entertaining. With that being said, it requires having a team of passionate and technically adept engineers.For more than 15 years, we have delivered more than 100 with highly satisfied and returning customers.Below are some facts about us:\u2022 Hundred of successful application development and implementation in small and large projects.\u2022 Broad industry knowledge in banking, multi finance, insurance, pharmaceutical and manufacturing.\u2022 Highly qualified of software development team, in two development locations: Jakarta & Yogyakarta.\u2022 Provide innovative and state-of-the-art technology or solutions.\u2022 Have been assisting our clients for development of complex requirements for more than 16 years.\u2022 Have been working as a team for more than 400 man-years experience.\u2022 Most of our projects are delivered on time, on budget, and at a competitive price.",
+    "id": "IFeOFzr935hE8UR-JivaD",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "Tfrpf-w9pFTES6vmOCWKG.jpg"
+  },
+  {
+    "name": "PT Reka Multi Aptika",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/a2e9eb1667494bbf171a0f977d7ffa75.jpg",
+    "description": "Gedung Graha Senatama, Lt. 4 Jl. Kramat Kwitang No.8,  RT.1/RW.7, Kwitang, Kec. Senen, Kota Jakarta Pusat,  Daerah Khusus Ibukota Jakarta 10420",
+    "id": "IZQe0Dc9oU5BsRnqrJ5-d",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "W9o4kaTIl5QDbSuHbtqeO.jpg"
+  },
+  {
+    "name": "Pt Transisi Teknologi Mandiri",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/dad94ee9830b72d7e2ffefde63842d62.png",
+    "description": "Jln. Pintu Selatan UPN No. 2, Ds. Condongcatur, Kec. Depok, Kab. Sleman, Daerah Istimewa Yogyakarta 55281",
+    "id": "46IMQwmwfrYVhskpElIA2",
+    "city": {
+      "id": 165
+    },
+    "logo_filename": "MKl3HRD6Ig6-CBc9mJDVr.jpg"
+  },
+  {
+    "name": "PT. Paninti Hub Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/959b9366d968bd4cfb9a0a44ad3833bb.jpg",
+    "description": null,
+    "id": "n40K-lCduIRKLvRcjFkLe",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "BZCF1jDhesN_XMWNe2BHe.jpg"
+  },
+  {
+    "name": "PT. Enerel Kosmetika Biotech",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/5d3e621048ade2f591a2f6f934cb1e31.jpeg",
+    "description": "Dusun Mranggen, Padukuhan Bakung RT 002, Bangunharjo, Sewon, Bantul, DIY",
+    "id": "QZdlU-CkeG9d8doV5G9Gp",
+    "city": {
+      "id": 231
+    },
+    "logo_filename": "s_UcG2KvWN_HzrrI6ERHq.jpg"
+  },
+  {
+    "name": "PT. Cahaya Teknindo Majumandiri",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/ca7b60fccf1802f3ea59306456373816.jpg",
+    "description": "Graha Pelitamaju",
+    "id": "kMXjxRY_mXD72Sznt6_v0",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "Omifi7stuBQ2g0VPZJUjK.jpg"
+  },
+  {
+    "name": "PT Miranda Moda Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/17bbb6c700de2aae67d438d9fec4eba6.jpeg",
+    "description": "Jl. Tekukur No.65, Rengas, Kec. Ciputat Timur, Kota Tangsel, Banten 15412",
+    "id": "U-I85hNKyiHEI8xBpDH5b",
+    "city": {
+      "id": 166
+    },
+    "logo_filename": "CB0d7RnzGL-_of_4pcS0R.jpg"
+  },
+  {
+    "name": "Myrobin",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/1afae53d8cc278ea189a50dda3436207.png",
+    "description": "Based in Indonesia, MyRobin provides an on-demand, pre-screened, flexible workforce to businesses within 24 hours. With more than 1.8 million workers in our community, MyRobin is streamlining the staffing process to ensure the trust, commitment, and flexibility required in The New Normal. MyRobin is changing the lives of 100+ million workers in Indonesia with benefits including payday loans that boost retention and satisfaction. MyRobin cater to a wide variety of roles, logistics, warehousing, telesales, customer service, F&B, hospitality.",
+    "id": "eM297Sef9e_U5_mc9V59t",
+    "city": {
+      "id": 176
+    },
+    "logo_filename": "d3x2eo3nB2QhFoPbACeLB.jpg"
+  },
+  {
+    "name": "Eden Kitchens",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/b660f6c27ce0de734d094cdb6fa87f21.png",
+    "description": "Office Park Thamrin City, Tanah Abang, 10230",
+    "id": "p3awaIez-j0vszAMmWpgr",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "C16_vZADoXyDP649s2mcV.jpg"
+  },
+  {
+    "name": "PT Teknologi Usaha Nusantara (Broom.id)",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/c3d0966a871f2c319b89d7921db0ead6.jpg",
+    "description": null,
+    "id": "KBftFpmO4UbhT4QNnnIUO",
+    "city": {
+      "id": 187
+    },
+    "logo_filename": "lcTVn7Dx3w7Fuzl3smbcw.jpg"
+  },
+  {
+    "name": "Jago Coffee",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/b8d30c5214edd419166658fa30d06298.png",
+    "description": null,
+    "id": "w4CEoHOP7omrO7Jg67dtr",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "y4YZLxZknivCM5Gzux2Wg.jpg"
+  },
+  {
+    "name": "Taphomes",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/15703f049724ab62d3f590f7d7806f05.png",
+    "description": "Home is more than just a shelter; it's a place that holds deep significance in our lives. It's where we cultivate a sense of belonging, find emotional stability, and experience personal growth. For many, it's also a means of investment.At TapHomes, we understand the diverse aspirations people have regarding homeownership. We're a passionate and growing team dedicated to alternative homeownership solutions.Our head office is located in Jakarta City, and we operate in Jakarta and across the bordering major cities. Join us at TapHomes and help reimagine the industry.",
+    "id": "gUZJZuMtPX48m7kh_OljM",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "c7eCpl5ryxizbZLVNU9xq.jpg"
+  },
+  {
+    "name": "Gear Inc.",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/1b56d59555902e7cdf4680d8a1006313.jpg",
+    "description": "Voza Tower 23rd Floor, HR Muhammad, Surabaya",
+    "id": "BvWVU1Ae1LODGDveBK_4I",
+    "city": {
+      "id": 273
+    },
+    "logo_filename": "nPga0n8NOde_FYnJxWB-S.jpg"
+  },
+  {
+    "name": "Pt Vanz Inovatif Teknologi (qbit)",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/05141bda82f92b922de8349074746908.png",
+    "description": "Ruko Sentra Niaga Green Lake L7 Jl. Green Lake City Boulevard Cengkareng, DKI Jakarta 11750",
+    "id": "YEv_fxOxXzeHsyeBTiBS_",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "EbTS_2sS1jyW6538dZudG.jpg"
+  },
+  {
+    "name": "Pt. Neho Global Trading",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/a3539418c4441bad9739a7cad89d573c.jpg",
+    "description": "Gold Coast Office Tower, Eiffel Tower Floor 7 Unit K, Pantai Indah Kapuk.",
+    "id": "xFZdNUyWKXL0KnaUIDcI5",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "qY3ReBi8DCE8zD56WCp97.jpg"
+  },
+  {
+    "name": "EF English First Bintaro Sector Nine",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/8d53ef3a845b31bc29ec8ec4b7ff2ca2.png",
+    "description": null,
+    "id": "_T5SWjrqqx7xwgHCLip82",
+    "city": {
+      "id": 307
+    },
+    "logo_filename": "Fjj1sZShzq3FzkKBuUeJq.jpg"
+  },
+  {
+    "name": "Oelek.id",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/4082b5ebc43bf73e5bf9af7497a6f013.jpeg",
+    "description": "Greenlake city east asia 1a no 10 cipondoh tangerang",
+    "id": "RCkoaierJbbDoU4gg5MMo",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "CBCLltg7oYcqnEEUqdWlZ.jpg"
+  },
+  {
+    "name": "Emudah Media Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/576ba1d26a8f1a8da150e365ac7320af.png",
+    "description": "Kawasan Industri Terpadu Indonesia China (KITIC) Kaveling No. 49, Lantai 4, Nagasari, Serang Baru, Bekasi Regency, West Java 17330",
+    "id": "ILhguKhIz_Bku5bDr-Mo9",
+    "city": {
+      "id": 171
+    },
+    "logo_filename": "zz3gi7rP-gxb2FMlUSPfN.jpg"
+  },
+  {
+    "name": "CV. Essential Nature",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/14229d19746af49b03cc6447eecd99a2.jpg",
+    "description": null,
+    "id": "Z65sdqgnY68rrx5ml2QS_",
+    "city": {
+      "id": 185
+    },
+    "logo_filename": "OdbyY87V5Sey-Gx1hKORE.jpg"
+  },
+  {
+    "name": "PT Yong Kurniawan Akselera",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/54536d3b8bd194e2b7130b3177ed21f4.png",
+    "description": "Cohive 101, Kawasan Mega Kuningan, Jl. DR. Ide Anak Agung Gde Agung Lot E4-7 No.1, Kuningan  Jakarta, DKI Jakarta 12950, ID",
+    "id": "aXMA-aWireSaitBIW2ESu",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "BgjGrbia-dkQFjPMBKyZH.jpg"
+  },
+  {
+    "name": "PT NATURALVA HERBA INDONESIA",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/d9ab7ecd90405af1a00d6a2ca8029f85.png",
+    "description": null,
+    "id": "YIKnOze1yXrRaolNtkULM",
+    "city": {
+      "id": 187
+    },
+    "logo_filename": "URy5yuA8z0prsJdhaGOU_.jpg"
+  },
+  {
+    "name": "PT Warna Warni Media",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/3d96f871316332076916c928d25d5b49.jpg",
+    "description": " PT Warna Warni Media (Group) adalah perusahaan yang bergerak di bidang JASA ADVERTISING khusus Media Luar Ruang. Salah Satu Produk kami adalah Jasa Pemasangan Reklame Billboard, Neon Box, LED (Videotron) dan sekaligus\u00a0 Pengurusan Perijinan Reklame.PT Warna Warni berdiri sejak tahun 1975 dan menjadi Perusahaan Advertising Nomor satu di Surabaya dan Jawa Timur.Saat ini kami telah membuka cabang di beberapa kota di Indonesia diantaranya adalah Jakarta, Bandung, Denpasar, Medan dan Makasar.Moto utama kami adalah \u201cCustomer Satisfaction is Our Commitment\u201dDan Saat ini Bidang Usaha kami telah berkembang pada usaha di Bidang PropertiSilahkan buka Website kami untuk mulai berkarir bersama Pt. Warna Warni Media\u00a0recruitment.warnawarni.co.id",
+    "id": "2WPl3qVvk9R1jaK9971q8",
+    "city": {
+      "id": 273
+    },
+    "logo_filename": "rOciSlOGx_qkb9o5OQXQc.jpg"
+  },
+  {
+    "name": "PT. Quantum Integrated Services",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/e1e376cb1aafdf7a15e3922df8ae0fd0.jpg",
+    "description": "District 8 Prosperity Tower 6th Floor Unit B, Jl. Jend. Sudirman Kav 52-54 SCBD Lot 28 Jakarta 12190",
+    "id": "i8G8FlELIH93-rS3YdA5j",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "n5byq3j99j92HCBVgQ0Gu.jpg"
+  },
+  {
+    "name": "PT. Elevenia Digital Teknologi Sukses (part of Salim Group)",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/cd0049d5843ca3baed6853af67423231.jpg",
+    "description": null,
+    "id": "OAlMm-K3rIDSmx7Cs278Y",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "kVlhlvu__Z9isa8JBhoeL.jpg"
+  },
+  {
+    "name": "S16 Research Ventures",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/c0252a66a36c79d2298479477424908a.jpg",
+    "description": "WeWork Noble House",
+    "id": "sPXYHgEmbAW2PbT0SsHFR",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "V4C73-fniJQU5YmpoTP3P.jpg"
+  },
+  {
+    "name": "Pt Triniti Tunggal Abadi",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/f1f878f93bd887bdf2f4c1b1686435f3.jpeg",
+    "description": "Triniti Beauty established in 2013, is a leading supplier of beauty and personal care. Triniti Beauty markets and distributes eyelash, beauty care, hair care, skin care and personal care mainly in Indonesia.In Triniti, we are a group of beauty enthusiast that are passionate in all the brands we manage and represent. Brand building is our specialty and it is our mission to help our partners build a sustainable and positive brand that is engaged in the local market.Triniti manages some amazing brands such as COLAB Dry Shampoo, Baylis & Harding, The Potions, True to Skin, Superdry and Milani.Our distribution networks expands over 2,000 retail stores in Indonesia and have full access to the vast online distribution channels such as Guardian, Watsons, Sephora, Century, JD Group, Tokopedia, Shopee and many more.In 2018, our company is nominated as the best innovative brand launch in Guardian Group.",
+    "id": "WjcLb85UjNhIym5hF2emm",
+    "city": {
+      "id": 165
+    },
+    "logo_filename": "AYR0miZCtHSjnxDjyQEBR.jpg"
+  },
+  {
+    "name": "Craftdale",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/2a4938e8091d44f03578d6727a5d6a9e.jpg",
+    "description": null,
+    "id": "QIoe6W6Tlz_o1UHca_z0Z",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "vzoJEAAj5lhS3h6snl976.jpg"
+  },
+  {
+    "name": "Jakmall.com",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/0bfc3563efcb179435c27e250aa61048.png",
+    "description": null,
+    "id": "LPHM4KlcGynU3H8vgSrk4",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "hBtiNW-yuZF7qOUa7oSgT.jpg"
+  },
+  {
+    "name": "PT. Mutualplus Global Resources (Jakarta Representative)",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/08029b3007c1bc515a2c998345867031.jpg",
+    "description": null,
+    "id": "hTL_cqq-SoxEzq0IOH0WE",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "zOhaSdFgtYQV1Fv_4IUGi.jpg"
+  },
+  {
+    "name": "PT Marsindo Konsult Prima",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/90eb51c4f79844e30b2956685a07be3e.jpg",
+    "description": "SohoPancoranJalanLet.Jend.MT.HaryonoKav.2-3Jakarta",
+    "id": "aha5Jpg1pZO9HiaP1cGzA",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "8VV4xsN5mqbRs5MEsyexp.jpg"
+  },
+  {
+    "name": "Rwi Consulting",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/e0ee7d6777086aeeafeb9c1a91eac2ca.png",
+    "description": "Scientia Business Park Tower II 2nd floor Jl. Boulevard Gading Serpong Blok O/2 Tangerang Selatan - 15810",
+    "id": "cvEsAyc0lfYYd-01ksZjK",
+    "city": {
+      "id": 166
+    },
+    "logo_filename": "ouWLEqf4uz_fW91AdlcRd.jpg"
+  },
+  {
+    "name": "PT FCL Internasional Indonesia ",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/0a8115d498abc538661f0e0e73e3cd2e.jpeg",
+    "description": "Soho Capital Lt 3806-3809, Jl Letjen S Parman Kav 28 Tanjung Duren Selatan, Jakarta Barat",
+    "id": "wxAM2ZKRAYtGYvZMLdoyk",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "citYeLuAtxJhVUAt0CKq_.jpg"
+  },
+  {
+    "name": "Tokenomy",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/a79ef66d946de382d94e10a85b1d2eea.png",
+    "description": "Sona Topas Tower, lantai 11, Jl. Jend. Sudirman RT.4/RT23, Kuningan, Karet, Kec. Setiabudi, Jakarta Selatan, DKI Jakarta, 12920, Indonesia",
+    "id": "5jDlqnz08DmggOVLwv9Pg",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "yb2IcYIKdcL4Ur_TG3fWb.jpg"
+  },
+  {
+    "name": "Pt. Integra Mitra Solusi",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/93cf5b124d90349409c09a929f7ccac9.jpg",
+    "description": null,
+    "id": "uj2YP00F7gMlfXAs6cUha",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "zWXroCJicBD4rAM9_GwzP.jpg"
+  },
+  {
+    "name": "PT. Onix Kreatif Indonesia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/1f3be92724e0774f467c3470325b1d70.png",
+    "description": "Jl. Seulawah Raya, Kalimalang, Cipinang Melayu Kec. Makasar, Kota Jakarta 13620",
+    "id": "FYa9jiBk2d4Vwv_jSmv9S",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "2l3VtK3KFqw56JwouGMyp.jpg"
+  },
+  {
+    "name": "Pt Maika Akar Nusantara",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/65df8ab19b8dccfea9c828d61507f071.jpg",
+    "description": "Jalan Cipete 9 No. 11B RT 10/RW 03, Cilandak, RT.4/RW.3, Cipete Selatan, Cilandak, RT.4/RW.3, Cipete Sel., Kec. Cilandak, Jakarta, Daerah Khusus Ibukota Jakarta 12410",
+    "id": "KQJafahetUax7zfimsU5k",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "7kXmhFgD6RtQady0qnFQh.jpg"
+  },
+  {
+    "name": "PT Graha Interfood Bosevi",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/08151348bdc6ad8cfdf04ca5bc4342d7.png",
+    "description": null,
+    "id": "eNWxCelNKcdzGXERpXh6V",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "e6p_2rK2ZpeoA9eFv6r2A.jpg"
+  },
+  {
+    "name": "Excelso Multi Rasa",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/bfab65bda3fc7038e19ad1e063193fc4.png",
+    "description": null,
+    "id": "Wv7Zgjm7HeNASV-JrMLNY",
+    "city": {
+      "id": 273
+    },
+    "logo_filename": "rQfPvukyuXP5gOvy0P7fs.jpg"
+  },
+  {
+    "name": "3000 Group",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/8ecb2d329ad5d26f15f6599ea85108a7.png",
+    "description": "A3000 Creative Compound. Jl. Kemang Raya No.8B, RT 09 RW 01, Bangka, Mampang Prapatan",
+    "id": "0QPmH9sRZF6BR4RFyWC8P",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "CEppEa300xBLUKdsU2oeZ.jpg"
+  },
+  {
+    "name": "Perqara",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/67402d0a4c2425e554f9b52b1880b4c7.jpg",
+    "description": null,
+    "id": "nDoBsx2N8yu9OqhVdb7rJ",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "nkcDxY4qxNrJGH10FqPD_.jpg"
+  },
+  {
+    "name": "Pt. Cemerlang Multimedia",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/92bc61647ea32c9e31257f5e4abfe559.png",
+    "description": "Jl. Karang Tinggal No.27 Bandung",
+    "id": "flZiPDIAVBQtqZmPaQF74",
+    "city": {
+      "id": 188
+    },
+    "logo_filename": "HSdaFy_MOp1DOjeAB-KVa.jpg"
+  },
+  {
+    "name": "UangMe (PT UangMe Fintek Indonesia)",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/5dc88f0150f1bf50614ad35674c3844d.png",
+    "description": "AIA Central, Jl. Jend. Sudirman No.Kav 48A, RT.5/RW.4, Karet Semanggi, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12930",
+    "id": "QM9oqErAtsxeOqVM0gr86",
+    "city": {
+      "id": 194
+    },
+    "logo_filename": "H8nlyRrvufWseot6Qtt35.jpg"
+  },
+  {
+    "name": "Pt. Pemad International Transearch",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/9f0572ccae3f411809e388b7195850ed.png",
+    "description": "PT P\u00e9Mad International TranSearch is an international language service provider based in Yogyakarta, Indonesia.",
+    "id": "bjupdVy3Lh9AQSgkJRNIh",
+    "city": {
+      "id": 235
+    },
+    "logo_filename": "Y421aY3PYdITUyNwU-fTq.jpg"
+  },
+  {
+    "name": "PT Mustika Land",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/6a6df5e29cc8e0b64c5ee296e05308e0.png",
+    "description": "Jl. Tanah Abang I No.12ii Petojo Selatan, Gambir, Jakarta Pusat",
+    "id": "EHzuZ92vWK6Shi6jpdBNq",
+    "city": {
+      "id": 187
+    },
+    "logo_filename": "zhWC8e-WZdNnaQTF1oKsl.jpg"
+  },
+  {
+    "name": "PT Lamonte Mode Internasional",
+    "logo": "https://images.glints.com/unsafe/70x0/glints-dashboard.s3.amazonaws.com/company-logo/dde51452d6e84863ddd5592d25a575dc.png",
+    "description": "Jl. Damai No.47 Kec. Mampang, Pancoran Mas",
+    "id": "M7UdbXj1uIynOulaJj0_9",
+    "city": {
+      "id": 191
+    },
+    "logo_filename": "fXiwFbvwS1c-b8ZXZWtgD.jpg"
+  }
+]

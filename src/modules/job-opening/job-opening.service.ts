@@ -7,7 +7,7 @@ import {
   PaginateQuery,
 } from 'nestjs-paginate';
 import { err, ok } from 'neverthrow';
-import { In, Repository } from 'typeorm';
+import { In, Like, Repository } from 'typeorm';
 
 import { ServiceException } from '@/common/exceptions/service.exception';
 import { LoggedUserType } from '@/common/types/types/logged-user.type';
@@ -179,34 +179,41 @@ export class JobOpeningService {
     query.limit = query.limit || 20;
     query.page = query.page || 1;
 
-    const searchVector = await this.openAIService.generateEmbeddings(search);
+    // const searchVector = await this.openAIService.generateEmbeddings(search);
 
-    if (searchVector.isErr()) {
-      const e = searchVector.error;
+    // if (searchVector.isErr()) {
+    //   const e = searchVector.error;
 
-      return err(new ServiceException('INTERNAL_SERVER_ERROR', e));
-    }
+    //   return err(new ServiceException('INTERNAL_SERVER_ERROR', e));
+    // }
 
-    const searchResult = await this.milvusService.searchVectors({
-      collectionName: 'job_posting',
-      limit: query.limit,
-      queryVectors: [searchVector.value],
-      // offset: query.limit * (query.page - 1),
-    });
+    // const searchResult = await this.milvusService.searchVectors({
+    //   collectionName: 'job_posting',
+    //   limit: query.limit,
+    //   queryVectors: [searchVector.value],
+    //   // offset: query.limit * (query.page - 1),
+    // });
 
-    const matchResult = searchResult.results.map((result) => result.id);
+    // const matchResult = searchResult.results.map((result) => result.id);
+
+    // const [jobOpenings, count] = await this.jobRepo.findAndCount({
+    //   where: { id: In(matchResult) },
+    //   relations: ['company', 'city', 'category', 'skillRequirements'],
+    // });
+
+    // const orderedJobOpenings = jobOpenings.sort(
+    //   (a, b) => matchResult.indexOf(a.id) - matchResult.indexOf(b.id),
+    // );
 
     const [jobOpenings, count] = await this.jobRepo.findAndCount({
-      where: { id: In(matchResult) },
+      where: { title: Like('%' + search + '%') },
       relations: ['company', 'city', 'category', 'skillRequirements'],
+      take: query.limit,
+      skip: query.limit * (query.page - 1),
     });
 
-    const orderedJobOpenings = jobOpenings.sort(
-      (a, b) => matchResult.indexOf(a.id) - matchResult.indexOf(b.id),
-    );
-
     return ok({
-      data: orderedJobOpenings,
+      data: jobOpenings,
       meta: {
         itemsPerPage: query.limit,
         totalItems: count,

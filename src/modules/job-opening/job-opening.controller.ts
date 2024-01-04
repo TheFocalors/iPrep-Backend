@@ -70,12 +70,12 @@ export class JobOpeningController {
       query,
     );
 
-    if (result.isErr()) {
-      throw APIError.fromMessage(
-        ApiErrorMessage.INTERNAL_SERVER_ERROR,
-        result.error.cause,
-      );
-    }
+    // if (result.isErr()) {
+    //   throw APIError.fromMessage(
+    //     ApiErrorMessage.INTERNAL_SERVER_ERROR,
+    //     result.error.cause,
+    //   );
+    // }
 
     return result.value;
   }

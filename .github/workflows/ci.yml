@@ -17,6 +17,13 @@ jobs:
         uses: docker/setup-qemu-action@v3
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
+      - name: Cache Docker layers
+        uses: actions/cache@v2
+        with:
+          path: /tmp/.buildx-cache
+          key: ${{ runner.os }}-buildx-${{ github.sha }}
+          restore-keys: |
+            ${{ runner.os }}-buildx-
       - name: Login to Docker Hub
         uses: docker/login-action@v3
         with:
@@ -26,4 +33,6 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: itstor/iprep-backend:latest
+          tags: your-repo/your-image:latest
+          cache-from: type=local,src=/tmp/.buildx-cache
+          cache-to: type=local,dest=/tmp/.buildx-cache,mode=max

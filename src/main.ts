@@ -13,7 +13,6 @@ import helmet from 'helmet';
 import { Logger, LoggerErrorInterceptor } from 'nestjs-pino';
 import path from 'path';
 import responseTime from 'response-time';
-import { initializeTransactionalContext } from 'typeorm-transactional';
 
 import { AppModule } from '@/app.module';
 
@@ -25,8 +24,6 @@ import RequestValidationPipe from './common/pipes/request-validation.pipe';
 import { IAppEnvConfig } from './lib/config/configs/app.config';
 
 async function bootstrap() {
-  initializeTransactionalContext();
-
   dayjs.extend(timezone);
   dayjs.extend(utc);
   dayjs.extend(advanced);

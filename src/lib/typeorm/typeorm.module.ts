@@ -2,9 +2,7 @@ import { Module } from '@nestjs/common';
 import { ConfigModule, ConfigService } from '@nestjs/config';
 import { TypeOrmModule, TypeOrmModuleOptions } from '@nestjs/typeorm';
 import * as path from 'path';
-import { DataSource, DataSourceOptions } from 'typeorm';
 import { SnakeNamingStrategy } from 'typeorm-naming-strategies';
-import { addTransactionalDataSource } from 'typeorm-transactional';
 
 import { ConfigName } from '@/common/constants/config-name.constant';
 import { IAppEnvConfig } from '@/lib/config/configs/app.config';
@@ -30,13 +28,6 @@ import { IDatabaseConfig } from '@/lib/config/configs/db.config';
           // synchronize: false,
           namingStrategy: new SnakeNamingStrategy(),
         };
-      },
-      dataSourceFactory: async (options: DataSourceOptions) => {
-        if (!options) {
-          throw new Error('Invalid options passed');
-        }
-
-        return addTransactionalDataSource(new DataSource(options));
       },
     }),
   ],

@@ -20,5 +20,5 @@ jobs:
           key: ${{ secrets.VM_PRIVATE_KEY }}
           script: |
             cd api
-            sudo docker compose pull
+            sudo docker compose pull backend
             sudo docker compose up -d backend

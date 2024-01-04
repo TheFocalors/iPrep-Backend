@@ -22,7 +22,7 @@ export class ResumeParserController {
   constructor(private readonly resumeParserService: ResumeParserService) {}
 
   @Post('parse')
-  @UseAuth()
+  // @UseAuth()
   @UseInterceptors(FileInterceptor('file'))
   async parseResume(
     @UploadedFile(

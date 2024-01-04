@@ -5,9 +5,13 @@ import axios from 'axios';
 import { In, Repository } from 'typeorm';
 
 import { ConfigName } from '@/common/constants/config-name.constant';
+import { Degree } from '@/entities/degree.entity';
+import { Institution } from '@/entities/institution.entity';
+import { Major } from '@/entities/major.entity';
 import { Skill } from '@/entities/skill.entity';
 import { IAppEnvConfig } from '@/lib/config/configs/app.config';
 
+import { ResumeParsingResult } from './resume-result.interface';
 import { MilvusService } from '../milvus/milvus.service';
 
 @Injectable()
@@ -17,6 +21,10 @@ export class ResumeParserService {
     private readonly milvusService: MilvusService,
     private readonly configService: ConfigService,
     @InjectRepository(Skill) private readonly skillRepo: Repository<Skill>,
+    @InjectRepository(Major) private readonly majorRepo: Repository<Major>,
+    @InjectRepository(Degree) private readonly degreeRepo: Repository<Degree>,
+    @InjectRepository(Institution)
+    private readonly institutionRepo: Repository<Institution>,
   ) {
     const config = this.configService.get<IAppEnvConfig>(ConfigName.APP);
 
@@ -33,13 +41,14 @@ export class ResumeParserService {
     formData.append('filename', file.originalname);
     formData.append('filetype', file.mimetype);
 
-    const response = await axios.post<{
-      result: [{ skill: string; vector: number[] }];
-    }>(`${this.mlAPIUrl}/predict`, formData);
+    const response = await axios.post<ResumeParsingResult>(
+      `${this.mlAPIUrl}/predict`,
+      formData,
+    );
 
     const data = response.data;
 
-    const matchedVectors = data.result.map(async (item) => {
+    const matchedSkillsVectors = data.result.skills.map(async (item) => {
       const id = await this.milvusService.searchVectors({
         collectionName: 'skills',
         limit: 1,
@@ -49,22 +58,76 @@ export class ResumeParserService {
       return id.results[0];
     });
 
-    const matchedIds = await Promise.all(matchedVectors);
+    const matchedSkillsIds = await Promise.all(matchedSkillsVectors);
 
-    const ids = matchedIds
+    const skillsIds = matchedSkillsIds
       .filter((item) => item.score < 0.4)
       .filter(
         (item, index, self) =>
           self.findIndex((t) => t.id === item.id) === index,
       )
-      .map((item) => Number(item.id) + 1);
+      .map((item) => Number(item.id));
 
     const matchedSkills = await this.skillRepo.find({
       where: {
-        id: In(ids),
+        id: In(skillsIds),
       },
     });
 
-    return matchedSkills;
+    let major = null;
+    if (data.result.lastEducationMajor) {
+      const matchedMajorVectors = await this.milvusService.searchVectors({
+        collectionName: 'majors',
+        limit: 1,
+        queryVectors: [data.result.lastEducationMajor.vector],
+      });
+
+      const matchedMajorId = matchedMajorVectors.results[0];
+
+      major = await this.majorRepo.findOne({
+        where: { id: Number(matchedMajorId.id) },
+      });
+    }
+
+    let institution = null;
+    if (data.result.lastEducationInstitution) {
+      const matchedInstitutionVectors = await this.milvusService.searchVectors({
+        collectionName: 'institutions',
+        limit: 1,
+        queryVectors: [data.result.lastEducationInstitution.vector],
+      });
+
+      const matchedInstitutionId = matchedInstitutionVectors.results[0];
+
+      institution = await this.institutionRepo.findOne({
+        where: { id: Number(matchedInstitutionId.id) },
+      });
+    }
+
+    let degree = null;
+    if (data.result.lastEducationDegree) {
+      const matchedDegreeVectors = await this.milvusService.searchVectors({
+        collectionName: 'degrees',
+        limit: 1,
+        queryVectors: [data.result.lastEducationDegree.vector],
+      });
+
+      const matchedDegreeId = matchedDegreeVectors.results[0];
+
+      degree = await this.degreeRepo.findOne({
+        where: { id: Number(matchedDegreeId.id) },
+      });
+    }
+
+    return {
+      name: data.result.name,
+      birthday: data.result.birthday,
+      lastEducationStartDate: data.result.lastEducationStartDate,
+      lastEducationEndDate: data.result.lastEducationEndDate,
+      lastEducationMajor: major,
+      lastEducationInstitution: institution,
+      lastEducationDegree: degree,
+      skills: matchedSkills,
+    };
   }
 }

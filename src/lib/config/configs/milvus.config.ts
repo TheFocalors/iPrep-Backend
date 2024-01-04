@@ -18,7 +18,7 @@ export default registerAs(ConfigName.MILVUS, (): IMilvusConfig => {
     },
     token: {
       value: process.env.MILVUS_TOKEN,
-      joi: Joi.string().required(),
+      joi: Joi.string().optional(),
     },
     database: {
       value: process.env.MILVUS_DATABASE,

@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { InjectRepository } from '@nestjs/typeorm';
 import axios from 'axios';
+import dayjs from 'dayjs';
 import { In, Repository } from 'typeorm';
 
 import { ConfigName } from '@/common/constants/config-name.constant';
@@ -121,9 +122,14 @@ export class ResumeParserService {
 
     return {
       name: data.result.name,
-      birthday: data.result.birthday,
-      lastEducationStartDate: data.result.lastEducationStartDate,
-      lastEducationEndDate: data.result.lastEducationEndDate,
+      birthday:
+        data.result.birthday && dayjs(data.result.birthday).toISOString(),
+      lastEducationStartDate:
+        data.result.lastEducationStartDate &&
+        dayjs(data.result.lastEducationStartDate).toISOString(),
+      lastEducationEndDate:
+        data.result.lastEducationEndDate &&
+        dayjs(data.result.lastEducationEndDate).toISOString(),
       lastEducationMajor: major,
       lastEducationInstitution: institution,
       lastEducationDegree: degree,

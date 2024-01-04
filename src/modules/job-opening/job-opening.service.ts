@@ -7,7 +7,7 @@ import {
   PaginateQuery,
 } from 'nestjs-paginate';
 import { err, ok } from 'neverthrow';
-import { In, Like, Repository } from 'typeorm';
+import { ILike, Repository } from 'typeorm';
 
 import { ServiceException } from '@/common/exceptions/service.exception';
 import { LoggedUserType } from '@/common/types/types/logged-user.type';
@@ -206,7 +206,7 @@ export class JobOpeningService {
     // );
 
     const [jobOpenings, count] = await this.jobRepo.findAndCount({
-      where: { title: Like('%' + search + '%') },
+      where: { title: ILike('%' + search + '%') },
       relations: ['company', 'city', 'category', 'skillRequirements'],
       take: query.limit,
       skip: query.limit * (query.page - 1),

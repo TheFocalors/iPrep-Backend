@@ -122,14 +122,13 @@ export class ResumeParserService {
 
     return {
       name: data.result.name,
-      birthday:
-        data.result.birthday && dayjs(data.result.birthday).toISOString(),
+      birthday: data.result.birthday && dayjs(data.result.birthday).toDate(),
       lastEducationStartDate:
         data.result.lastEducationStartDate &&
-        dayjs(data.result.lastEducationStartDate).toISOString(),
+        dayjs(data.result.lastEducationStartDate).toDate(),
       lastEducationEndDate:
         data.result.lastEducationEndDate &&
-        dayjs(data.result.lastEducationEndDate).toISOString(),
+        dayjs(data.result.lastEducationEndDate).toDate(),
       lastEducationMajor: major,
       lastEducationInstitution: institution,
       lastEducationDegree: degree,

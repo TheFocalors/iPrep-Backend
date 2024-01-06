@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, Logger } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { InjectRepository } from '@nestjs/typeorm';
 import axios from 'axios';
@@ -48,6 +48,8 @@ export class ResumeParserService {
     );
 
     const data = response.data;
+
+    Logger.log(data.result.birthday, 'ResumeParserService');
 
     const matchedSkillsVectors = data.result.skills.map(async (item) => {
       const id = await this.milvusService.searchVectors({
@@ -122,13 +124,9 @@ export class ResumeParserService {
 
     return {
       name: data.result.name,
-      birthday: data.result.birthday && dayjs(data.result.birthday).toDate(),
-      lastEducationStartDate:
-        data.result.lastEducationStartDate &&
-        dayjs(data.result.lastEducationStartDate).toDate(),
-      lastEducationEndDate:
-        data.result.lastEducationEndDate &&
-        dayjs(data.result.lastEducationEndDate).toDate(),
+      birthday: data.result.birthday,
+      lastEducationStartDate: data.result.lastEducationStartDate,
+      lastEducationEndDate: data.result.lastEducationEndDate,
       lastEducationMajor: major,
       lastEducationInstitution: institution,
       lastEducationDegree: degree,

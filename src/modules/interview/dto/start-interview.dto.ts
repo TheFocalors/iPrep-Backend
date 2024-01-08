@@ -6,3 +6,13 @@ export class StartInterviewDTO {
   @IsNotEmpty()
   readonly jobId: string;
 }
+
+export class StartVoiceInterviewDTO {
+  @ApiProperty()
+  @IsNotEmpty()
+  readonly jobId: string;
+
+  @ApiProperty()
+  @IsNotEmpty()
+  readonly sessionId: string;
+}

@@ -81,6 +81,7 @@
     "neverthrow": "^6.0.0",
     "node-fetch": "^3.3.1",
     "nodemailer": "^6.9.1",
+    "openai": "^4.24.1",
     "otp-generator": "^4.0.1",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0",

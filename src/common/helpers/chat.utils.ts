@@ -65,6 +65,34 @@ export class ChatUtils {
     }
   }
 
+  public static mapMessageToOpenAIInput(messages: BaseChatMessage[]): {
+    role: 'assistant' | 'user' | 'system';
+    content: string;
+  }[] {
+    return messages.map((message) => {
+      let role: 'assistant' | 'user' | 'system';
+
+      switch (message._getType()) {
+        case 'ai':
+          role = 'assistant';
+          break;
+        case 'human':
+          role = 'user';
+          break;
+        case 'system':
+          role = 'system';
+          break;
+        default:
+          throw new Error(`Got unexpected type: ${message._getType()}`);
+      }
+
+      return {
+        role,
+        content: message.text,
+      };
+    });
+  }
+
   public static mapStoredMessagesToChatMessages(
     messages: StoredMessage[],
   ): BaseChatMessage[] {

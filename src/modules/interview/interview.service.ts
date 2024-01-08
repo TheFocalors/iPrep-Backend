@@ -173,6 +173,45 @@ export class InterviewService {
     });
   }
 
+  public async replyVoiceInterview(data: ReplyInterviewDTO) {
+    const { sessionId, message } = data;
+
+    let interviewHistory: InterviewHistory | null = null;
+    if ((await this.redis.lrange(sessionId, 0, -1)).length === 0) {
+      interviewHistory = await this.interviewRepo.findOne({
+        where: {
+          sessionId,
+        },
+      });
+
+      if (!interviewHistory) {
+        return err(new ServiceException('INTERVIEW_SESSION_NOT_FOUND'));
+      }
+
+      if (interviewHistory.isDone) {
+        return err(new ServiceException('INTERVIEW_ALREADY_DONE'));
+      }
+    }
+
+    let sendMessage: string = message;
+    if (ChatUtils.whoIsSpeaking(message) === 'unknown') {
+      sendMessage = `HUMAN: ${message}`;
+    } else {
+      return err(new ServiceException('INTERVIEW_MESSAGGE_NOT_ALLOWED'));
+    }
+
+    let formatedMessages: BaseChatMessage[] = [];
+    if (interviewHistory) {
+      formatedMessages = ChatUtils.mapStoredMessagesToChatMessages(
+        interviewHistory.chatHistories,
+      );
+    }
+
+    formatedMessages.push(new HumanChatMessage(sendMessage));
+
+    return ok(this.openAiService.chatAudioStream(formatedMessages, sessionId));
+  }
+
   public async saveInterviewHistory(
     sessionId: string,
     userId: string,
@@ -251,6 +290,46 @@ export class InterviewService {
       type: ChatUtils.whoIsSpeaking(replyMessage.text),
       isDone: true,
     });
+  }
+
+  public async startVoiceInterview(data: StartInterviewDTO, sessionId: string) {
+    const { jobId: id } = data;
+    const jobResult = await this.jobOpeningService.getJobOpeningById(id);
+
+    if (jobResult.isErr()) {
+      return err(new ServiceException('JOB_OPENING_NOT_FOUND'));
+    }
+
+    const initialInterviewTemplate = ChatPromptTemplate.fromPromptMessages([
+      HumanMessagePromptTemplate.fromTemplate(
+        PromptMessageTemplates.SYSTEM_RULES,
+      ),
+      HumanMessagePromptTemplate.fromTemplate(
+        PromptMessageTemplates.JOB_DESCRIPTION,
+      ),
+      // HumanMessagePromptTemplate.fromTemplate(
+      //   PromptMessageTemplates.HUMAN_INTRODUCTION,
+      // ),
+    ]);
+
+    const job = jobResult.value;
+
+    return ok(
+      this.openAiService.chatAudioStream(
+        await initialInterviewTemplate.formatMessages({
+          company: job.company.name,
+          companyLocation: job.company.location.name,
+          title: job.title,
+          responsibilities: job.responsibilities.join(', '),
+          qualifications: job.requirements.join(', '),
+          skills: job.skillRequirements.map((skill) => skill.name).join(', '),
+          salary: `${job.salaryFrom} - ${job.salaryTo}`,
+          city: job.city.name,
+          type: job.jobType,
+        }),
+        sessionId,
+      ),
+    );
   }
 
   public async startInterview(data: StartInterviewDTO, userId: string) {

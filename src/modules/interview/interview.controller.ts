@@ -1,6 +1,14 @@
-import { Body, Controller, Get, Param, Post } from '@nestjs/common';
+import {
+  Body,
+  Controller,
+  Get,
+  Param,
+  Post,
+  StreamableFile,
+} from '@nestjs/common';
 import { ApiOkResponse, ApiOperation, ApiTags } from '@nestjs/swagger';
 import { Paginate, PaginateQuery } from 'nestjs-paginate';
+import { Readable } from 'stream';
 
 import { ApiErrorMessage } from '@/common/constants/api-error-message.constant';
 import { LoggedUser } from '@/common/decorators/logged-user.decorator';
@@ -11,7 +19,10 @@ import { LoggedUserType } from '@/common/types/types/logged-user.type';
 import { EndInterviewDTO } from './dto/end-interview.dto';
 import { ReplyInterviewDTO } from './dto/reply-interview.dto';
 import { SaveInterviewDTO } from './dto/save-interview.dto';
-import { StartInterviewDTO } from './dto/start-interview.dto';
+import {
+  StartInterviewDTO,
+  StartVoiceInterviewDTO,
+} from './dto/start-interview.dto';
 import { InterviewService } from './interview.service';
 
 @Controller({
@@ -183,5 +194,62 @@ export class InterviewController {
     }
 
     return result.value;
+  }
+
+  @Post('voice/start')
+  @UseAuth()
+  @ApiOperation({ operationId: 'Start Interview' })
+  async startVoiceInterview(
+    @LoggedUser() user: LoggedUserType,
+    @Body() body: StartVoiceInterviewDTO,
+  ) {
+    const result = await this.interviewService.startVoiceInterview(
+      body,
+      body.sessionId,
+    );
+
+    if (result.isErr()) {
+      const e = result.error;
+
+      switch (e.name) {
+        case 'JOB_OPENING_NOT_FOUND':
+          throw APIError.fromMessage(ApiErrorMessage.JOB_OPENING_NOT_FOUND);
+        default:
+          throw APIError.fromMessage(ApiErrorMessage.INTERNAL_SERVER_ERROR);
+      }
+    }
+
+    return new StreamableFile(Readable.from(result.value));
+  }
+
+  @Post('voice/reply')
+  @UseAuth()
+  @ApiOperation({ operationId: 'Reply Interview' })
+  async replyVoiceInterview(
+    @LoggedUser() user: LoggedUserType,
+    @Body() body: ReplyInterviewDTO,
+  ) {
+    const result = await this.interviewService.replyVoiceInterview(body);
+
+    if (result.isErr()) {
+      const e = result.error;
+
+      switch (e.name) {
+        case 'INTERVIEW_SESSION_NOT_FOUND':
+          throw APIError.fromMessage(
+            ApiErrorMessage.INTERVIEW_SESSION_NOT_FOUND,
+          );
+        case 'INTERVIEW_MESSAGGE_NOT_ALLOWED':
+          throw APIError.fromMessage(
+            ApiErrorMessage.INTERVIEW_MESSAGGE_NOT_ALLOWED,
+          );
+        case 'INTERVIEW_ALREADY_DONE':
+          throw APIError.fromMessage(ApiErrorMessage.INTERVIEW_ALREADY_DONE);
+        default:
+          throw APIError.fromMessage(ApiErrorMessage.INTERNAL_SERVER_ERROR);
+      }
+    }
+
+    return new StreamableFile(Readable.from(result.value));
   }
 }

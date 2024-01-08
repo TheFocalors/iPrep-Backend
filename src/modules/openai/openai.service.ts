@@ -114,7 +114,7 @@ export class OpenAIService {
           input: sentences,
           model: 'tts-1',
           voice: 'nova',
-          response_format: 'opus',
+          response_format: 'mp3',
         });
 
         const body = audioResponse.body as unknown as Readable;

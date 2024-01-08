@@ -219,7 +219,9 @@ export class InterviewController {
       }
     }
 
-    return new StreamableFile(Readable.from(result.value));
+    return new StreamableFile(Readable.from(result.value), {
+      type: 'audio/opus',
+    });
   }
 
   @Post('voice/reply')
@@ -250,6 +252,8 @@ export class InterviewController {
       }
     }
 
-    return new StreamableFile(Readable.from(result.value));
+    return new StreamableFile(Readable.from(result.value), {
+      type: 'audio/opus',
+    });
   }
 }

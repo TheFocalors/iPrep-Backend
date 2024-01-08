@@ -197,7 +197,7 @@ export class InterviewController {
   }
 
   @Post('voice/start')
-  @UseAuth()
+  // @UseAuth()
   @ApiOperation({ operationId: 'Start Interview' })
   async startVoiceInterview(
     @LoggedUser() user: LoggedUserType,
@@ -225,7 +225,7 @@ export class InterviewController {
   }
 
   @Post('voice/reply')
-  @UseAuth()
+  // @UseAuth()
   @ApiOperation({ operationId: 'Reply Interview' })
   async replyVoiceInterview(
     @LoggedUser() user: LoggedUserType,

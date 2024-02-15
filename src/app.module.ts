@@ -78,7 +78,7 @@ import { UserModule } from './modules/user/user.module';
     DegreeModule,
     TCModule,
     InterviewModule,
-    ResumeParserModule,
+    // ResumeParserModule,
   ],
   controllers: [],
   providers: [

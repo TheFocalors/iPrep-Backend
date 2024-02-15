@@ -34,7 +34,7 @@ export class OpenAIService {
 
     this.chatModel = new ChatOpenAI({
       openAIApiKey: openAIConfig?.openAIApiKey,
-      modelName: 'gpt-4-1106-preview',
+      modelName: 'gpt-3.5-turbo-0125',
       temperature: 0.7,
       topP: 0.5,
       frequencyPenalty: 0,
@@ -89,7 +89,7 @@ export class OpenAIService {
     }
 
     const llmOutput = await this.openAIModel.chat.completions.create({
-      model: 'gpt-3.5-turbo',
+      model: 'gpt-3.5-turbo-0125',
       messages: ChatUtils.mapMessageToOpenAIInput(llmInput),
       stream: true,
     });

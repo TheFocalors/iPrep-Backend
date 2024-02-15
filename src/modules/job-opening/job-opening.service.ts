@@ -22,7 +22,6 @@ export class JobOpeningService {
     @InjectRepository(JobOpening)
     private readonly jobRepo: Repository<JobOpening>,
     private readonly openAIService: OpenAIService,
-    private readonly milvusService: MilvusService,
   ) {}
 
   private readonly paginationConfig: PaginateConfig<JobOpening> = {

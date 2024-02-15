@@ -9,7 +9,7 @@ import { MilvusModule } from '../milvus/milvus.module';
 import { OpenAIModule } from '../openai/openai.module';
 
 @Module({
-  imports: [TypeOrmModule.forFeature([JobOpening]), OpenAIModule, MilvusModule],
+  imports: [TypeOrmModule.forFeature([JobOpening]), OpenAIModule],
   controllers: [JobOpeningController],
   providers: [JobOpeningService],
   exports: [JobOpeningService],

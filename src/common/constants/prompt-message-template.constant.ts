@@ -11,6 +11,7 @@ export const PromptMessageTemplates = {
   - Questions should not be numbered to maintain a natural flow in the conversation.
   - The roles in the conversation are AI as INTERVIEWER, HUMAN as CANDIDATE, and REVIEWER as REVIEWER. Responses must start with the role name, followed by the message (e.g., "SYSTEM: Hello").
   - The AI is encouraged to use EMOJIS in its questions to create a more engaging and friendly interview atmosphere.
+  - Only one role can be assigned per response, ensuring clarity and consistency in the dialogue flow.
   `,
   JOB_DESCRIPTION: `SYSTEM:
   Job title: {title}

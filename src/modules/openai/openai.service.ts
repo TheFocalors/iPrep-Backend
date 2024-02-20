@@ -34,7 +34,7 @@ export class OpenAIService {
 
     this.chatModel = new ChatOpenAI({
       openAIApiKey: openAIConfig?.openAIApiKey,
-      modelName: 'gpt-3.5-turbo-0125',
+      modelName: 'gpt-4-turbo',
       temperature: 0.7,
       topP: 0.5,
       frequencyPenalty: 0,
